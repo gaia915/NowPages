@@ -1,13 +1,16 @@
 import os
 import shutil
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from jinja2 import Environment, FileSystemLoader
 from typing import List
 from src.models import Event
 import logging
 
 logger = logging.getLogger(__name__)
+
+# 日本時間 (JST)
+JST = timezone(timedelta(hours=9))
 
 class PageGenerator:
     def __init__(self, templates_dir: str = "templates", output_dir: str = "dist"):
@@ -20,7 +23,7 @@ class PageGenerator:
 
     def generate(self, events: List[Event]):
         os.makedirs(self.output_dir, exist_ok=True)
-        now_str = datetime.now().strftime("%Y年%m月%d日 %H:%M")
+        now_str = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
         
         # 統計の集計
         total_events = len(events)

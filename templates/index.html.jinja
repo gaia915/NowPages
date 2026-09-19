@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プラネタリウム最新イベント情報 | 星空ナビゲーション</title>
+  <meta name="description" content="全国の主要プラネタリウム（コニカミノルタ各館、日本科学未来館、各地の科学館）の最新上映・特別イベント・コラボ企画を定期更新でまとめたガイドページです。">
+  <!-- OGP -->
+  <meta property="og:title" content="プラネタリウム最新イベント情報 | 星空ナビゲーション">
+  <meta property="og:description" content="全国の主要プラネタリウムの最新上映・特別イベント情報を定期収集。今夜見に行ける星空・ドーム体験を探そう。">
+  <meta property="og:type" content="website">
+  
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Space Starfield Background -->
+  <div class="space-background">
+    <div class="stars-container"></div>
+  </div>
+
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-badge">
+        <span class="pulse-dot"></span>
+        <span>AUTO-UPDATED EVENT FEED</span>
+      </div>
+      <h1 class="header-title">PLANETARIUM NOW</h1>
+      <p class="header-subtitle">
+        全国の主要プラネタリウム・ドームシアターの最新上映プログラムや特別イベントを定期収集。日常を離れ、満天の星空と特別な映像世界に出会う旅へ。
+      </p>
+    </header>
+
+    <!-- Stats Dashboard -->
+    <section class="stats-bar">
+      <div class="stat-item">
+        <div class="stat-icon">🪐</div>
+        <div>
+          <div class="stat-label">掲載イベント数</div>
+          <div class="stat-val">{{ stats.total_events }} <span style="font-size:0.9rem; font-weight:normal;">件</span></div>
+        </div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-icon">✨</div>
+        <div>
+          <div class="stat-label">開催・上映中</div>
+          <div class="stat-val">{{ stats.open_events }} <span style="font-size:0.9rem; font-weight:normal;">件</span></div>
+        </div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-icon">🏛️</div>
+        <div>
+          <div class="stat-label">情報収集施設</div>
+          <div class="stat-val">{{ stats.venues_count }} <span style="font-size:0.9rem; font-weight:normal;">館以上</span></div>
+        </div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-icon">🕒</div>
+        <div>
+          <div class="stat-label">最終データ更新</div>
+          <div class="stat-val" style="font-size: 1.15rem; margin-top:4px;">{{ generated_at }}</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls & Filter Panel -->
+    <section class="controls-panel">
+      <!-- Search Input -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input 
+          type="text" 
+          id="search-input" 
+          class="search-input" 
+          placeholder="作品名・アーティスト名（BUMP、サカナクション等）・施設名・エリアで検索..."
+          autocomplete="off"
+        >
+      </div>
+
+      <!-- Filters -->
+      <div class="filter-groups">
+        <!-- Area Filter -->
+        <div class="filter-row">
+          <span class="filter-label">エリア:</span>
+          <button class="chip-btn active" data-filter-area="all">すべて</button>
+          <button class="chip-btn" data-filter-area="tokyo">東京</button>
+          <button class="chip-btn" data-filter-area="kanto">関東全域</button>
+          <button class="chip-btn" data-filter-area="chubu">中部・愛知</button>
+          <button class="chip-btn" data-filter-area="kansai">近畿・関西</button>
+          <button class="chip-btn" data-filter-area="other">全国その他</button>
+        </div>
+
+        <!-- Status Filter -->
+        <div class="filter-row">
+          <span class="filter-label">状態:</span>
+          <button class="chip-btn active" data-filter-status="all">すべて</button>
+          <button class="chip-btn" data-filter-status="open">開催・上映中のみ</button>
+          <button class="chip-btn" data-filter-status="hot">注目・NEW</button>
+        </div>
+      </div>
+
+      <!-- Action & Result count -->
+      <div class="action-row">
+        <div class="result-count">
+          表示中: <strong id="result-count">{{ stats.total_events }}</strong> 件
+        </div>
+        <button id="bookmark-toggle-btn" class="bookmark-toggle-btn">
+          ★ 保存したお気に入り (<span id="bookmark-count-badge">0</span>)
+        </button>
+      </div>
+    </section>
+
+    <!-- Events Grid -->
+    <main class="events-grid">
+      {% for ev in events %}
+      <article 
+        class="event-card" 
+        data-id="{{ ev.id }}"
+        data-title="{{ ev.title }}"
+        data-venue="{{ ev.venue }}"
+        data-area="{{ ev.area }}"
+        data-status="{{ ev.status }}"
+        data-desc="{{ ev.description }}"
+      >
+        <!-- Media / Image -->
+        <div class="card-media">
+          {% if ev.image_url %}
+          <img src="{{ ev.image_url }}" alt="{{ ev.title }}" class="card-img" loading="lazy">
+          {% else %}
+          <div class="placeholder-img">
+            <div class="placeholder-icon">✦</div>
+            <span style="font-size:0.75rem; color:#94a3b8;">PLANETARIUM</span>
+          </div>
+          {% endif %}
+
+          <!-- Status badge -->
+          {% if "開催中" in ev.status or "上映中" in ev.status %}
+          <span class="badge-status badge-open">{{ ev.status }}</span>
+          {% elif "注目" in ev.status or "NEW" in ev.status %}
+          <span class="badge-status badge-hot">{{ ev.status }}</span>
+          {% else %}
+          <span class="badge-status badge-notice">{{ ev.status }}</span>
+          {% endif %}
+
+          <!-- Bookmark button -->
+          <button 
+            class="bookmark-btn" 
+            onclick="toggleBookmark('{{ ev.id }}', event)" 
+            title="お気に入りに追加"
+          >☆</button>
+        </div>
+
+        <!-- Content -->
+        <div class="card-content">
+          <div class="card-meta-top">
+            <span class="card-genre">{{ ev.genre }}</span>
+            <span class="card-area">📍 {{ ev.area }}</span>
+          </div>
+
+          <h2 class="card-title">
+            <a href="{{ ev.link_url }}" target="_blank" rel="noopener noreferrer">
+              {{ ev.title }}
+            </a>
+          </h2>
+
+          <div class="card-venue">
+            🏛️ <strong>{{ ev.venue }}</strong>
+          </div>
+
+          {% if ev.period %}
+          <div class="card-period">
+            🗓️ {{ ev.period }}
+          </div>
+          {% endif %}
+
+          <p class="card-desc">
+            {{ ev.description }}
+          </p>
+
+          <div class="card-footer">
+            <span class="source-badge">情報元: {{ ev.source }}</span>
+            <a href="{{ ev.link_url }}" target="_blank" rel="noopener noreferrer" class="link-btn">
+              詳細・予約 ↗
+            </a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+
+      <!-- Empty State -->
+      <div id="empty-state" class="empty-state" style="display: none;">
+        <div class="empty-icon">🔭</div>
+        <p style="font-size: 1.2rem; font-weight: 600; color: #cbd5e1; margin-bottom: 8px;">条件に一致するイベントが見つかりませんでした</p>
+        <p>キーワードやフィルターの条件を変更してお試しください。</p>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-links">
+        <a href="events.md" class="footer-link">📄 Markdown版を見る</a>
+        <a href="events.json" class="footer-link" target="_blank">💾 JSONデータ</a>
+        <a href="https://github.com" class="footer-link" target="_blank">💻 GitHub</a>
+      </div>
+      <p>
+        本ページは定期的に全国の主要プラネタリウムの公開情報を取りまとめ自動生成されています。<br>
+        最新の上映スケジュールやチケット販売状況は、各施設の公式サイトをご確認ください。
+      </p>
+    </footer>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

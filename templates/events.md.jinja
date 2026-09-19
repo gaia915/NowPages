@@ -1,0 +1,28 @@
+# 🪐 プラネタリウム最新イベント・上映プログラム一覧
+
+> 最終自動更新: {{ generated_at }}  
+> 掲載件数: **{{ stats.total_events }}** 件 (うち開催中: **{{ stats.open_events }}** 件)
+
+全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
+
+---
+
+## 🌟 注目・上映中のピックアップ
+
+{% for ev in events %}
+### [{{ ev.title }}]({{ ev.link_url }})
+- **会場**: {{ ev.venue }} ({{ ev.area }})
+- **期間**: {{ ev.period }}
+- **状態 / ジャンル**: `{{ ev.status }}` | `{{ ev.genre }}`
+- **概要**: {{ ev.description }}
+- **公式サイト・詳細**: [こちら]({{ ev.link_url }}) (情報元: {{ ev.source }})
+
+{% if ev.image_url %}
+![{{ ev.title }}]({{ ev.image_url }})
+{% endif %}
+
+---
+{% endfor %}
+
+---
+*Generated automatically by NowPages Planetarium Event Generator.*

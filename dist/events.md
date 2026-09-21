@@ -1,7 +1,7 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年09月21日 07:45  
-> 掲載件数: **104** 件 (うち開催中: **45** 件)
+> 最終自動更新: 2026年09月22日 08:42  
+> 掲載件数: **103** 件 (うち開催中: **45** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
 
@@ -142,7 +142,7 @@
 
 ### [星空ハンモック 8月・9月](https://www.walkerplus.com/event/ar0518e610470/)
 - **会場**: 各地のプラネタリウム (福井県)
-- **期間**: 2026年8月22日(土)～9月22日(火)
+- **期間**: 終了間近 2026年8月22日(土)～9月22日(火)
 - **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
 - **概要**: 日本一の星空をゆったり満喫
 - **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0518e610470/) (情報元: ウォーカープラス)
@@ -166,19 +166,6 @@
 
 ---
 
-### [サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://www.walkerplus.com/event/ar0310e548217/)
-- **会場**: 各地のプラネタリウム (群馬県 高崎市)
-- **期間**: ～2026年9月30日(水)
-- **状態 / ジャンル**: `開催中` | `グルメ・フードフェス`
-- **概要**: 開放的なテラスで20種類以上のドリンクを飲み放題で楽しめる
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0310e548217/) (情報元: ウォーカープラス)
-
-
-![サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/548217_2.jpg)
-
-
----
-
 ### [みなとアクルス星空映画祭2026](https://www.walkerplus.com/event/ar0623e611721/)
 - **会場**: 各地のプラネタリウム (愛知県)
 - **期間**: 2026年9月26日(土)
@@ -188,6 +175,19 @@
 
 
 ![みなとアクルス星空映画祭2026](https://ms-cache.walkerplus.com/walkertouch/wtd/event/21/l/611721.jpg)
+
+
+---
+
+### [サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://www.walkerplus.com/event/ar0310e548217/)
+- **会場**: 各地のプラネタリウム (群馬県 高崎市)
+- **期間**: ～2026年9月30日(水)
+- **状態 / ジャンル**: `開催中` | `グルメ・フードフェス`
+- **概要**: 開放的なテラスで20種類以上のドリンクを飲み放題で楽しめる
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0310e548217/) (情報元: ウォーカープラス)
+
+
+![サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/548217_2.jpg)
 
 
 ---
@@ -218,19 +218,6 @@
 
 ---
 
-### [2026年夏期特別企画展「南方熊楠と天文学への関心」](https://www.walkerplus.com/event/ar0730e608117/)
-- **会場**: 各地のプラネタリウム (和歌山県)
-- **期間**: 終了間近 2026年7月11日(土)～9月21日(月)
-- **状態 / ジャンル**: `開催中` | `入場無料`
-- **概要**: 熊楠が抱いた天文学への関心に迫る
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0730e608117/) (情報元: ウォーカープラス)
-
-
-![2026年夏期特別企画展「南方熊楠と天文学への関心」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/608117.jpg)
-
-
----
-
 ### [CoCoキャンドルナイト＆星空Bar](https://www.walkerplus.com/event/ar1047e605921/)
 - **会場**: 各地のプラネタリウム (沖縄県)
 - **期間**: 2026年7月20日(月)～9月30日(水)
@@ -240,19 +227,6 @@
 
 
 ![CoCoキャンドルナイト＆星空Bar](https://ms-cache.walkerplus.com/walkertouch/wtd/event/21/l/605921.jpg)
-
-
----
-
-### [白馬旅×星空（秋の部）](https://www.walkerplus.com/event/ar0420e600541/)
-- **会場**: 各地のプラネタリウム (長野県)
-- **期間**: 2026年8月26日(水)～10月28日(水)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 全国的にも数少ない第3世代の星空観察会
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0420e600541/) (情報元: ウォーカープラス)
-
-
-![白馬旅×星空（秋の部）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/41/l/600541.jpg)
 
 
 ---
@@ -270,6 +244,19 @@
 
 ---
 
+### [白馬旅×星空（秋の部）](https://www.walkerplus.com/event/ar0420e600541/)
+- **会場**: 各地のプラネタリウム (長野県)
+- **期間**: 2026年8月26日(水)～10月28日(水)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 全国的にも数少ない第3世代の星空観察会
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0420e600541/) (情報元: ウォーカープラス)
+
+
+![白馬旅×星空（秋の部）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/41/l/600541.jpg)
+
+
+---
+
 ### [瀧本幹也 LUNATION 朔望 －海から天体を読む](https://www.walkerplus.com/event/ar0314e602299/)
 - **会場**: 各地のプラネタリウム (神奈川県)
 - **期間**: 2026年9月2日(水)～11月8日(日)
@@ -279,32 +266,6 @@
 
 
 ![瀧本幹也 LUNATION 朔望 －海から天体を読む](https://ms-cache.walkerplus.com/walkertouch/wtd/event/99/l/602299.jpg)
-
-
----
-
-### [プラネタリウム 星空ツアー「今夜の星空と『電波でさぐる宇宙』」](https://www.walkerplus.com/event/ar0834e599942/)
-- **会場**: 各地のプラネタリウム (広島県)
-- **期間**: 2026年6月7日(日)～10月11日(日)
-- **状態 / ジャンル**: `開催中` | `映画イベント`
-- **概要**: 星や銀河が届ける見えないメッセージ
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0834e599942/) (情報元: ウォーカープラス)
-
-
-![プラネタリウム 星空ツアー「今夜の星空と『電波でさぐる宇宙』」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/42/l/599942.jpg)
-
-
----
-
-### [プラネタリウム特別投影「QUEEN-HEAVEN-」supported by FUJI](https://www.walkerplus.com/event/ar0623e607991/)
-- **会場**: 各地のプラネタリウム (愛知県)
-- **期間**: 2026年10月17日(土)・18日(日)
-- **状態 / ジャンル**: `開催中` | `映画イベント`
-- **概要**: QUEENの音楽を大迫力レーザーとともに
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0623e607991/) (情報元: ウォーカープラス)
-
-
-![プラネタリウム特別投影「QUEEN-HEAVEN-」supported by FUJI](https://ms-cache.walkerplus.com/walkertouch/wtd/event/91/l/607991.jpg)
 
 
 ---
@@ -322,28 +283,28 @@
 
 ---
 
-### [久住高原星空の巡り（10月）](https://www.walkerplus.com/event/ar1044e592925/)
-- **会場**: 各地のプラネタリウム (大分県)
-- **期間**: 2026年10月17日(土)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 神話の世界が瞬く。
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e592925/) (情報元: ウォーカープラス)
+### [プラネタリウム特別投影「QUEEN-HEAVEN-」supported by FUJI](https://www.walkerplus.com/event/ar0623e607991/)
+- **会場**: 各地のプラネタリウム (愛知県)
+- **期間**: 2026年10月17日(土)・18日(日)
+- **状態 / ジャンル**: `開催中` | `映画イベント`
+- **概要**: QUEENの音楽を大迫力レーザーとともに
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0623e607991/) (情報元: ウォーカープラス)
 
 
-![久住高原星空の巡り（10月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/25/l/592925.jpg)
+![プラネタリウム特別投影「QUEEN-HEAVEN-」supported by FUJI](https://ms-cache.walkerplus.com/walkertouch/wtd/event/91/l/607991.jpg)
 
 
 ---
 
-### [星空と音楽の時間～昭和歌謡曲～](https://www.walkerplus.com/event/ar0936e605393/)
-- **会場**: 各地のプラネタリウム (徳島県)
-- **期間**: 終了間近 2026年9月21日(月)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 星空と音楽のコラボレーション！
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0936e605393/) (情報元: ウォーカープラス)
+### [プラネタリウム 星空ツアー「今夜の星空と『電波でさぐる宇宙』」](https://www.walkerplus.com/event/ar0834e599942/)
+- **会場**: 各地のプラネタリウム (広島県)
+- **期間**: 2026年6月7日(日)～10月11日(日)
+- **状態 / ジャンル**: `開催中` | `映画イベント`
+- **概要**: 星や銀河が届ける見えないメッセージ
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0834e599942/) (情報元: ウォーカープラス)
 
 
-![星空と音楽の時間～昭和歌謡曲～](https://ms-cache.walkerplus.com/walkertouch/wtd/event/93/l/605393.jpg)
+![プラネタリウム 星空ツアー「今夜の星空と『電波でさぐる宇宙』」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/42/l/599942.jpg)
 
 
 ---
@@ -357,6 +318,19 @@
 
 
 ![となりの森の日～星空観察と、家族で灯すひかりの一日～](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/613017.jpg)
+
+
+---
+
+### [久住高原星空の巡り（10月）](https://www.walkerplus.com/event/ar1044e592925/)
+- **会場**: 各地のプラネタリウム (大分県)
+- **期間**: 2026年10月17日(土)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 神話の世界が瞬く。
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e592925/) (情報元: ウォーカープラス)
+
+
+![久住高原星空の巡り（10月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/25/l/592925.jpg)
 
 
 ---
@@ -402,13 +376,26 @@
 
 ### [劇団天文座 設立6周年記念公演「あなたが書くまで、何もはじまらない」](https://www.walkerplus.com/event/ar0727e610579/)
 - **会場**: 各地のプラネタリウム (大阪府)
-- **期間**: 2026年9月22日(火)
+- **期間**: 終了間近 2026年9月22日(火)
 - **状態 / ジャンル**: `開催中` | `入場無料`
 - **概要**: 劇団天文座の設立6周年記念公演
 - **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0727e610579/) (情報元: ウォーカープラス)
 
 
 ![劇団天文座 設立6周年記念公演「あなたが書くまで、何もはじまらない」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/79/l/610579.jpg)
+
+
+---
+
+### [Planetarium Concert(プラネタリウムコンサート) -モネを巡るクラシック-(追加上演)](https://www.walkerplus.com/event/ar0313e584514/)
+- **会場**: コニカミノルタプラネタリアTOKYO (東京都 千代田区)
+- **期間**: 2026年10月3日(土)～11月29日(日)
+- **状態 / ジャンル**: `開催中` | `ライブ・音楽イベント`
+- **概要**: モネの絵画世界を音楽とともに巡るプラネタリウムコンサート
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e584514/) (情報元: ウォーカープラス)
+
+
+![Planetarium Concert(プラネタリウムコンサート) -モネを巡るクラシック-(追加上演)](https://ms-cache.walkerplus.com/walkertouch/wtd/event/14/l/584514_1.jpg)
 
 
 ---
@@ -426,19 +413,6 @@
 
 ---
 
-### [星空観察会](https://www.walkerplus.com/event/ar0420e600546/)
-- **会場**: 各地のプラネタリウム (長野県)
-- **期間**: 2026年7月24日(金)～10月30日(金)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 全国的にも数少ない第3世代の星空観察会
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0420e600546/) (情報元: ウォーカープラス)
-
-
-![星空観察会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/46/l/600546.jpg)
-
-
----
-
 ### [楽しい星空観察会in戸隠キャンプ場](https://www.walkerplus.com/event/ar0420e600542/)
 - **会場**: 各地のプラネタリウム (長野県 長野市)
 - **期間**: 2026年7月18日(土)～10月31日(土)
@@ -448,6 +422,19 @@
 
 
 ![楽しい星空観察会in戸隠キャンプ場](https://ms-cache.walkerplus.com/walkertouch/wtd/event/42/l/600542.jpg)
+
+
+---
+
+### [星空観察会](https://www.walkerplus.com/event/ar0420e600546/)
+- **会場**: 各地のプラネタリウム (長野県)
+- **期間**: 2026年7月24日(金)～10月30日(金)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 全国的にも数少ない第3世代の星空観察会
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0420e600546/) (情報元: ウォーカープラス)
+
+
+![星空観察会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/46/l/600546.jpg)
 
 
 ---
@@ -474,6 +461,19 @@
 
 
 ![久住高原星空の巡り（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/43/l/610843.jpg)
+
+
+---
+
+### [土星と秋の天体観望会](https://www.walkerplus.com/event/ar0101e602083/)
+- **会場**: 各地のプラネタリウム (北海道)
+- **期間**: 2026年11月4日(水)～15日(日)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 国内最大級の望遠鏡で土星を見よう！
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0101e602083/) (情報元: ウォーカープラス)
+
+
+![土星と秋の天体観望会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/83/l/602083.jpg)
 
 
 ---
@@ -714,17 +714,6 @@
 - **状態 / ジャンル**: `注目` | `特別イベント`
 - **概要**: イベント 2026年4月15日
 - **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/phantasia_led/) (情報元: コニカミノルタ公式)
-
-
-
----
-
-### [Planetarium Concert -all contents-](https://planetarium.konicaminolta.jp/event/planetarium-concert/)
-- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
-- **期間**: 最新イベント・期間限定
-- **状態 / ジャンル**: `注目` | `特別イベント`
-- **概要**: イベント 2026年4月12日
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/planetarium-concert/) (情報元: コニカミノルタ公式)
 
 
 

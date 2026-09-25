@@ -28,11 +28,21 @@ class PageGenerator:
         # 統計の集計
         total_events = len(events)
         open_events = sum(1 for e in events if "開催中" in e.status or "上映中" in e.status)
+        recent_count = sum(1 for e in events if getattr(e, "is_new", False))
         venues = set(e.venue for e in events if e.venue)
         
+        # 最近追加された注目のイベント（上位8件）
+        recent_events = [e for e in events if getattr(e, "is_new", False)]
+        if len(recent_events) < 4:
+            # 新着が少ない場合は上位から補完
+            recent_events = events[:8]
+        else:
+            recent_events = recent_events[:8]
+
         stats = {
             "total_events": total_events,
             "open_events": open_events,
+            "recent_events_count": recent_count,
             "venues_count": len(venues)
         }
         
@@ -40,6 +50,7 @@ class PageGenerator:
         html_template = self.jinja_env.get_template("index.html.jinja")
         html_content = html_template.render(
             events=events,
+            recent_events=recent_events,
             stats=stats,
             generated_at=now_str
         )
@@ -52,6 +63,7 @@ class PageGenerator:
         md_template = self.jinja_env.get_template("events.md.jinja")
         md_content = md_template.render(
             events=events,
+            recent_events=recent_events,
             stats=stats,
             generated_at=now_str
         )

@@ -20,6 +20,7 @@ except Exception:
 from src.scraper import PlanetariumAggregator
 from src.generator import PageGenerator
 from src.models import Event
+from src.history import HistoryManager
 
 CACHE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "events_cache.json")
 
@@ -47,11 +48,17 @@ def main():
         aggregator = PlanetariumAggregator()
         events = aggregator.aggregate()
 
-        # キャッシュの保存
-        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
-        with open(CACHE_FILE, "w", encoding="utf-8") as f:
-            json.dump([e.to_dict() for e in events], f, ensure_ascii=False, indent=2)
-        print(f"[SAVE] キャッシュを保存しました: {CACHE_FILE}")
+    # 履歴マネージャーによる初回発見日と新着フラグの付与
+    history_mgr = HistoryManager()
+    events = history_mgr.update_events_with_history(events)
+    recent_count = sum(1 for e in events if e.is_new)
+    print(f"[HISTORY] 履歴と照合完了: 新着・最近追加イベント {recent_count} 件")
+
+    # キャッシュの保存 (更新後の属性を含む)
+    os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump([e.to_dict() for e in events], f, ensure_ascii=False, indent=2)
+    print(f"[SAVE] キャッシュを保存しました: {CACHE_FILE}")
 
     print(f"\n[BUILD] Webページ & Markdownを生成中 (出力先: {args.output_dir})...")
     generator = PageGenerator(templates_dir="templates", output_dir=args.output_dir)

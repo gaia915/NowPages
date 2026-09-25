@@ -51,10 +51,10 @@
         </div>
       </div>
       <div class="stat-item">
-        <div class="stat-icon">🏛️</div>
+        <div class="stat-icon">🆕</div>
         <div>
-          <div class="stat-label">情報収集施設</div>
-          <div class="stat-val">{{ stats.venues_count }} <span style="font-size:0.9rem; font-weight:normal;">館以上</span></div>
+          <div class="stat-label">最近追加・新着</div>
+          <div class="stat-val" style="color: var(--accent-cyan);">{{ stats.recent_events_count }} <span style="font-size:0.9rem; font-weight:normal;">件</span></div>
         </div>
       </div>
       <div class="stat-item">
@@ -65,6 +65,42 @@
         </div>
       </div>
     </section>
+
+    <!-- Recent Events Highlight Section -->
+    {% if recent_events %}
+    <section class="recent-section">
+      <div class="section-header">
+        <div class="section-title-wrap">
+          <span class="section-tag">NEW ARRIVALS</span>
+          <h2 class="section-title">✨ 最近追加された新着イベント</h2>
+        </div>
+        <p class="section-desc">直近に新しく追加された注目の上映プログラムや限定イベントをピックアップ</p>
+      </div>
+
+      <div class="recent-scroll-container">
+        {% for ev in recent_events %}
+        <div class="recent-card" onclick="window.open('{{ ev.link_url }}', '_blank')">
+          <div class="recent-card-img-wrap">
+            {% if ev.image_url %}
+            <img src="{{ ev.image_url }}" alt="{{ ev.title }}" class="recent-card-img" loading="lazy">
+            {% else %}
+            <div class="recent-placeholder">✦</div>
+            {% endif %}
+            <span class="recent-badge">🆕 NEW</span>
+          </div>
+          <div class="recent-card-body">
+            <span class="recent-card-area">📍 {{ ev.area.split(' ')[0] if ev.area else '全国' }}</span>
+            <h3 class="recent-card-title">{{ ev.title }}</h3>
+            <p class="recent-card-venue">🏛️ {{ ev.venue }}</p>
+            {% if ev.first_seen_at %}
+            <span class="recent-card-date">追加: {{ ev.first_seen_at }}</span>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
 
     <!-- Controls & Filter Panel -->
     <section class="controls-panel">
@@ -97,6 +133,7 @@
         <div class="filter-row">
           <span class="filter-label">状態:</span>
           <button class="chip-btn active" data-filter-status="all">すべて</button>
+          <button class="chip-btn" data-filter-status="new">🆕 最近追加</button>
           <button class="chip-btn" data-filter-status="open">開催・上映中のみ</button>
           <button class="chip-btn" data-filter-status="hot">注目・NEW</button>
         </div>
@@ -123,6 +160,7 @@
         data-venue="{{ ev.venue }}"
         data-area="{{ ev.area }}"
         data-status="{{ ev.status }}"
+        data-is-new="{{ 'true' if ev.is_new else 'false' }}"
         data-desc="{{ ev.description }}"
       >
         <!-- Media / Image -->
@@ -137,7 +175,9 @@
           {% endif %}
 
           <!-- Status badge -->
-          {% if "開催中" in ev.status or "上映中" in ev.status %}
+          {% if ev.is_new %}
+          <span class="badge-status badge-new-glow">🆕 新着</span>
+          {% elif "開催中" in ev.status or "上映中" in ev.status %}
           <span class="badge-status badge-open">{{ ev.status }}</span>
           {% elif "注目" in ev.status or "NEW" in ev.status %}
           <span class="badge-status badge-hot">{{ ev.status }}</span>
@@ -158,6 +198,9 @@
           <div class="card-meta-top">
             <span class="card-genre">{{ ev.genre }}</span>
             <span class="card-area">📍 {{ ev.area }}</span>
+            {% if ev.first_seen_at %}
+            <span class="card-date-badge">📅 {{ ev.first_seen_at }}</span>
+            {% endif %}
           </div>
 
           <h2 class="card-title">

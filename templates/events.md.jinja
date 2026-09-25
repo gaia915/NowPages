@@ -7,7 +7,16 @@
 
 ---
 
-## 🌟 注目・上映中のピックアップ
+## 🆕 最近追加された新着イベント（Pick Up）
+
+{% for ev in recent_events %}
+- **[{{ ev.title }}]({{ ev.link_url }})**
+  - 会場: {{ ev.venue }} ({{ ev.area }}) / 状態: `{{ ev.status }}` {% if ev.first_seen_at %}/ 追加日: `{{ ev.first_seen_at }}`{% endif %}
+{% endfor %}
+
+---
+
+## 🌟 全掲載イベント一覧 ({{ stats.total_events }}件)
 
 {% for ev in events %}
 ### [{{ ev.title }}]({{ ev.link_url }})

@@ -66,6 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const venue = (card.dataset.venue || "").toLowerCase();
       const area = (card.dataset.area || "").toLowerCase();
       const status = (card.dataset.status || "").toLowerCase();
+      const isNew = (card.dataset.isNew || "false").toLowerCase();
       const desc = (card.dataset.desc || "").toLowerCase();
 
       // Bookmark filter
@@ -101,7 +102,9 @@ document.addEventListener("DOMContentLoaded", () => {
       // Status match
       let matchesStatus = true;
       if (currentStatus !== "all") {
-        if (currentStatus === "open") {
+        if (currentStatus === "new") {
+          matchesStatus = isNew === "true" || status.includes("new") || status.includes("新着");
+        } else if (currentStatus === "open") {
           matchesStatus = status.includes("開催中") || status.includes("上映中");
         } else if (currentStatus === "hot") {
           matchesStatus = status.includes("注目") || status.includes("new");

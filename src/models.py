@@ -17,6 +17,8 @@ class Event:
     link_url: str
     source: str
     updated_at: str
+    first_seen_at: str = ""
+    is_new: bool = False
 
     @classmethod
     def create(
@@ -31,7 +33,9 @@ class Event:
         image_url: str = "",
         link_url: str = "",
         source: str = "",
-        updated_at: str = ""
+        updated_at: str = "",
+        first_seen_at: str = "",
+        is_new: bool = False
     ):
         raw_key = f"{title}_{venue}_{link_url}".encode('utf-8')
         event_id = hashlib.md5(raw_key).hexdigest()[:12]
@@ -47,7 +51,9 @@ class Event:
             image_url=image_url.strip(),
             link_url=link_url.strip(),
             source=source.strip(),
-            updated_at=updated_at.strip()
+            updated_at=updated_at.strip(),
+            first_seen_at=first_seen_at.strip(),
+            is_new=is_new
         )
 
     def to_dict(self):

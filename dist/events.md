@@ -1,6 +1,6 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年09月30日 08:59  
+> 最終自動更新: 2026年10月01日 09:13  
 > 掲載件数: **100** 件 (うち開催中: **43** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
@@ -12,9 +12,6 @@
 
 - **[サカナクション グッドナイト・プラネタリウム(リバイバル上映)](https://www.walkerplus.com/event/ar0313e597752/)**
   - 会場: コニカミノルタプラネタリウム満天 in Sunshine City (東京都 豊島区) / 状態: `開催中` / 追加日: `2026-09-25`
-
-- **[ホラープラネタリウム ふり返りの旋律(有楽町)(リバイバル上映)](https://www.walkerplus.com/event/ar0313e552345/)**
-  - 会場: コニカミノルタプラネタリアTOKYO (東京都 千代田区) / 状態: `開催中` / 追加日: `2026-09-25`
 
 - **[プラネタリウム版「チ。 ー地球の運動についてー」(茨城)](https://www.walkerplus.com/event/ar0308e600786/)**
   - 会場: つくばエキスポセンター (茨城県 つくば市) / 状態: `開催中` / 追加日: `2026-09-25`
@@ -34,6 +31,9 @@
 - **[2026年たんばら高原星空観察会](https://www.walkerplus.com/event/ar0310e600799/)**
   - 会場: 各地のプラネタリウム (群馬県) / 状態: `開催中` / 追加日: `2026-09-25`
 
+- **[プラネタリウム ムーンベース 月面基地のミライ](https://www.walkerplus.com/event/ar0834e601688/)**
+  - 会場: 各地のプラネタリウム (広島県) / 状態: `開催中` / 追加日: `2026-09-25`
+
 
 ---
 
@@ -49,19 +49,6 @@
 
 
 ![サカナクション グッドナイト・プラネタリウム(リバイバル上映)](https://ms-cache.walkerplus.com/walkertouch/wtd/event/52/l/597752.jpg)
-
-
----
-
-### [ホラープラネタリウム ふり返りの旋律(有楽町)(リバイバル上映)](https://www.walkerplus.com/event/ar0313e552345/)
-- **会場**: コニカミノルタプラネタリアTOKYO (東京都 千代田区)
-- **期間**: 終了間近 2026年7月3日(金)から
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 初の本格ホラープラネタリウム作品
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e552345/) (情報元: ウォーカープラス)
-
-
-![ホラープラネタリウム ふり返りの旋律(有楽町)(リバイバル上映)](https://ms-cache.walkerplus.com/walkertouch/wtd/event/45/l/552345.jpg)
 
 
 ---
@@ -144,19 +131,6 @@
 
 ---
 
-### [プラネタリウム投影「ルートをえらべ：君は宇宙人に会えるか」](https://www.walkerplus.com/event/ar0313e607431/)
-- **会場**: 各地のプラネタリウム (東京都 板橋区)
-- **期間**: 終了間近 2026年7月18日(土)～9月30日(水)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 与えられたミッションは 宇宙人を探すこと
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e607431/) (情報元: ウォーカープラス)
-
-
-![プラネタリウム投影「ルートをえらべ：君は宇宙人に会えるか」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/31/l/607431.jpg)
-
-
----
-
 ### [プラネタリウム ムーンベース 月面基地のミライ](https://www.walkerplus.com/event/ar0834e601688/)
 - **会場**: 各地のプラネタリウム (広島県)
 - **期間**: 2026年7月18日(土)～2027年1月17日(日)
@@ -179,19 +153,6 @@
 
 
 ![特別上映 プラネタリウム ドラえもん 時間のひみつ](https://ms-cache.walkerplus.com/walkertouch/wtd/event/04/l/607004.jpg)
-
-
----
-
-### [サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://www.walkerplus.com/event/ar0310e548217/)
-- **会場**: 各地のプラネタリウム (群馬県 高崎市)
-- **期間**: 終了間近 ～2026年9月30日(水)
-- **状態 / ジャンル**: `開催中` | `グルメ・フードフェス`
-- **概要**: 開放的なテラスで20種類以上のドリンクを飲み放題で楽しめる
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0310e548217/) (情報元: ウォーカープラス)
-
-
-![サブリナビアガーデン高崎 星空と焼肉のビアガーデン](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/548217_2.jpg)
 
 
 ---
@@ -270,19 +231,6 @@
 
 
 ![となりの森の日～星空観察と、家族で灯すひかりの一日～](https://ms-cache.walkerplus.com/walkertouch/wtd/event/17/l/613017.jpg)
-
-
----
-
-### [CoCoキャンドルナイト＆星空Bar](https://www.walkerplus.com/event/ar1047e605921/)
-- **会場**: 各地のプラネタリウム (沖縄県)
-- **期間**: 終了間近 2026年7月20日(月)～9月30日(水)
-- **状態 / ジャンル**: `開催中` | `ライトアップ`
-- **概要**: プールサイドに揺らめくキャンドルの灯り
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1047e605921/) (情報元: ウォーカープラス)
-
-
-![CoCoキャンドルナイト＆星空Bar](https://ms-cache.walkerplus.com/walkertouch/wtd/event/21/l/605921.jpg)
 
 
 ---
@@ -443,6 +391,19 @@
 
 ---
 
+### [星兄 爆笑！！プラネタリウムショー](https://www.walkerplus.com/event/ar1040e613349/)
+- **会場**: 各地のプラネタリウム (福岡県 久留米市)
+- **期間**: 2026年11月8日(日)
+- **状態 / ジャンル**: `開催中` | `フェスティバル・パレード`
+- **概要**: 子どもから大人まで上を向いて笑おう
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1040e613349/) (情報元: ウォーカープラス)
+
+
+![星兄 爆笑！！プラネタリウムショー](https://ms-cache.walkerplus.com/walkertouch/wtd/event/49/l/613349.jpg)
+
+
+---
+
 ### [楽しい星空観察会in戸隠キャンプ場](https://www.walkerplus.com/event/ar0420e600542/)
 - **会場**: 各地のプラネタリウム (長野県 長野市)
 - **期間**: 2026年7月18日(土)～10月31日(土)
@@ -452,19 +413,6 @@
 
 
 ![楽しい星空観察会in戸隠キャンプ場](https://ms-cache.walkerplus.com/walkertouch/wtd/event/42/l/600542.jpg)
-
-
----
-
-### [かなでの星空観察会](https://www.walkerplus.com/event/ar0622e594498/)
-- **会場**: 各地のプラネタリウム (静岡県)
-- **期間**: 2026年5月23日(土)～11月3日(火)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 第3世代の楽しい星空観察会
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0622e594498/) (情報元: ウォーカープラス)
-
-
-![かなでの星空観察会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/98/l/594498.jpg)
 
 
 ---
@@ -482,15 +430,67 @@
 
 ---
 
-### [星兄 爆笑！！プラネタリウムショー](https://www.walkerplus.com/event/ar1040e613349/)
-- **会場**: 各地のプラネタリウム (福岡県 久留米市)
-- **期間**: 2026年11月8日(日)
-- **状態 / ジャンル**: `開催中` | `フェスティバル・パレード`
-- **概要**: 子どもから大人まで上を向いて笑おう
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1040e613349/) (情報元: ウォーカープラス)
+### [イスYOGA プラネタリウム](https://www.walkerplus.com/event/ar0833e616035/)
+- **会場**: 各地のプラネタリウム (岡山県)
+- **期間**: 2026年10月3日(土)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 心とカラダのリセット時間を
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e616035/) (情報元: ウォーカープラス)
 
 
-![星兄 爆笑！！プラネタリウムショー](https://ms-cache.walkerplus.com/walkertouch/wtd/event/49/l/613349.jpg)
+![イスYOGA プラネタリウム](https://ms-cache.walkerplus.com/walkertouch/wtd/event/35/l/616035.jpg)
+
+
+---
+
+### [かなでの星空観察会](https://www.walkerplus.com/event/ar0622e594498/)
+- **会場**: 各地のプラネタリウム (静岡県)
+- **期間**: 2026年5月23日(土)～11月3日(火)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 第3世代の楽しい星空観察会
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0622e594498/) (情報元: ウォーカープラス)
+
+
+![かなでの星空観察会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/98/l/594498.jpg)
+
+
+---
+
+### [星空カフェ（11月）](https://www.walkerplus.com/event/ar0726e611039/)
+- **会場**: 各地のプラネタリウム (京都府)
+- **期間**: 2026年11月15日(日)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: ゆったりと季節の星空観察
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0726e611039/) (情報元: ウォーカープラス)
+
+
+![星空カフェ（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/39/l/611039.jpg)
+
+
+---
+
+### [星空カフェ（10月）](https://www.walkerplus.com/event/ar0726e611266/)
+- **会場**: 各地のプラネタリウム (京都府)
+- **期間**: 2026年10月18日(日)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: ゆったりと季節の星空観察
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0726e611266/) (情報元: ウォーカープラス)
+
+
+![星空カフェ（10月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/66/l/611266.jpg)
+
+
+---
+
+### [倉敷科学センター 天体観望会（10月）](https://www.walkerplus.com/event/ar0833e611268/)
+- **会場**: 各地のプラネタリウム (岡山県 倉敷市)
+- **期間**: 2026年10月10日(土)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: 季節の天体を天体望遠鏡で観測
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e611268/) (情報元: ウォーカープラス)
+
+
+![倉敷科学センター 天体観望会（10月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/68/l/611268.jpg)
 
 
 ---
@@ -634,19 +634,6 @@
 
 
 ![【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/wp-content/uploads/「QUEEN-HEAVEN-」作品写真小.jpg)
-
-
----
-
-### [ホラープラネタリウム ふり返りの旋律](https://planetarium.konicaminolta.jp/program/horror/)
-- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `終了間近` | `特別プログラム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/horror/) (情報元: コニカミノルタ公式)
-
-
-![ホラープラネタリウム ふり返りの旋律](https://planetarium.konicaminolta.jp/wp-content/uploads/furikaeri_no_senritsu.jpg)
 
 
 ---
@@ -960,6 +947,17 @@
 - **状態 / ジャンル**: `注目` | `特別イベント`
 - **概要**: イベント 2024年11月1日
 - **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/wedding_photo_wakon_style/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】5周年記念プレゼントキャンペーン開催！](https://planetarium.konicaminolta.jp/event/nagoya_anniversary_5th/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年9月30日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/nagoya_anniversary_5th/) (情報元: コニカミノルタ公式)
 
 
 

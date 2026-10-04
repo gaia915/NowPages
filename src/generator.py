@@ -5,6 +5,7 @@ from datetime import datetime, timezone, timedelta
 from jinja2 import Environment, FileSystemLoader
 from typing import List
 from src.models import Event
+from src.history import HistoryManager
 import logging
 
 logger = logging.getLogger(__name__)
@@ -30,14 +31,20 @@ class PageGenerator:
         open_events = sum(1 for e in events if "開催中" in e.status or "上映中" in e.status)
         recent_count = sum(1 for e in events if getattr(e, "is_new", False))
         venues = set(e.venue for e in events if e.venue)
-        
-        # 最近追加された注目のイベント（上位8件）
-        recent_events = [e for e in events if getattr(e, "is_new", False)]
-        if len(recent_events) < 4:
-            # 新着が少ない場合は上位から補完
-            recent_events = events[:8]
-        else:
-            recent_events = recent_events[:8]
+
+        # 最近追加された注目のイベント（追加日降順でソートされた上位12件）
+        recent_events = HistoryManager.get_recent_events(events, limit=12)
+
+        # メイン一覧も新着優先（追加日降順）でソート
+        sorted_events = sorted(
+            events,
+            key=lambda e: (
+                e.first_seen_at or "1970-01-01",
+                1 if getattr(e, "is_new", False) else 0,
+                1 if "開催中" in e.status else 0
+            ),
+            reverse=True
+        )
 
         stats = {
             "total_events": total_events,
@@ -49,7 +56,7 @@ class PageGenerator:
         # 1. HTMLの生成
         html_template = self.jinja_env.get_template("index.html.jinja")
         html_content = html_template.render(
-            events=events,
+            events=sorted_events,
             recent_events=recent_events,
             stats=stats,
             generated_at=now_str
@@ -62,7 +69,7 @@ class PageGenerator:
         # 2. Markdownの生成
         md_template = self.jinja_env.get_template("events.md.jinja")
         md_content = md_template.render(
-            events=events,
+            events=sorted_events,
             recent_events=recent_events,
             stats=stats,
             generated_at=now_str

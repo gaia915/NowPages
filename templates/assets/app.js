@@ -156,6 +156,43 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
+  // Sort chips
+  const sortChips = document.querySelectorAll("[data-sort]");
+  const gridContainer = document.getElementById("events-grid");
+
+  function sortEvents(sortType) {
+    if (!gridContainer) return;
+    const cardArray = Array.from(gridContainer.querySelectorAll(".event-card"));
+
+    cardArray.sort((a, b) => {
+      if (sortType === "newest") {
+        const dateA = a.dataset.added || "1970-01-01";
+        const dateB = b.dataset.added || "1970-01-01";
+        return dateB.localeCompare(dateA);
+      } else if (sortType === "open") {
+        const isOpenA = (a.dataset.status || "").includes("開催中") || (a.dataset.status || "").includes("上映中") ? 1 : 0;
+        const isOpenB = (b.dataset.status || "").includes("開催中") || (b.dataset.status || "").includes("上映中") ? 1 : 0;
+        return isOpenB - isOpenA;
+      } else if (sortType === "venue") {
+        const venueA = a.dataset.venue || "";
+        const venueB = b.dataset.venue || "";
+        return venueA.localeCompare(venueB, "ja");
+      }
+      return 0;
+    });
+
+    cardArray.forEach(card => gridContainer.appendChild(card));
+  }
+
+  sortChips.forEach(chip => {
+    chip.addEventListener("click", () => {
+      sortChips.forEach(c => c.classList.remove("active"));
+      chip.classList.add("active");
+      const sortType = chip.dataset.sort;
+      sortEvents(sortType);
+    });
+  });
+
   // Bookmark toggle button
   if (bookmarkToggleBtn) {
     bookmarkToggleBtn.addEventListener("click", () => {

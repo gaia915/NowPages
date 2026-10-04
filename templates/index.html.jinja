@@ -92,9 +92,10 @@
             <span class="recent-card-area">📍 {{ ev.area.split(' ')[0] if ev.area else '全国' }}</span>
             <h3 class="recent-card-title">{{ ev.title }}</h3>
             <p class="recent-card-venue">🏛️ {{ ev.venue }}</p>
-            {% if ev.first_seen_at %}
-            <span class="recent-card-date">追加: {{ ev.first_seen_at }}</span>
-            {% endif %}
+            <div class="recent-card-footer">
+              <span class="recent-card-date">📅 {{ ev.first_seen_at }} 追加</span>
+              <span class="recent-card-link">詳細 ↗</span>
+            </div>
           </div>
         </div>
         {% endfor %}
@@ -133,9 +134,17 @@
         <div class="filter-row">
           <span class="filter-label">状態:</span>
           <button class="chip-btn active" data-filter-status="all">すべて</button>
-          <button class="chip-btn" data-filter-status="new">🆕 最近追加</button>
+          <button class="chip-btn" data-filter-status="new">🆕 最近追加のみ</button>
           <button class="chip-btn" data-filter-status="open">開催・上映中のみ</button>
           <button class="chip-btn" data-filter-status="hot">注目・NEW</button>
+        </div>
+
+        <!-- Sort Filter -->
+        <div class="filter-row">
+          <span class="filter-label">並び順:</span>
+          <button class="chip-btn active" data-sort="newest">📅 最近追加順 (新着優先)</button>
+          <button class="chip-btn" data-sort="open">✨ 開催・上映中優先</button>
+          <button class="chip-btn" data-sort="venue">🏛️ 施設・会場名順</button>
         </div>
       </div>
 
@@ -151,7 +160,7 @@
     </section>
 
     <!-- Events Grid -->
-    <main class="events-grid">
+    <main class="events-grid" id="events-grid">
       {% for ev in events %}
       <article 
         class="event-card" 
@@ -160,6 +169,7 @@
         data-venue="{{ ev.venue }}"
         data-area="{{ ev.area }}"
         data-status="{{ ev.status }}"
+        data-added="{{ ev.first_seen_at }}"
         data-is-new="{{ 'true' if ev.is_new else 'false' }}"
         data-desc="{{ ev.description }}"
       >

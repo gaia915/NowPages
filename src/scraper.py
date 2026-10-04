@@ -352,7 +352,7 @@ class PlanetariumAggregator:
     """複数のスクレイパーを統括し、イベントデータを集約・重複排除する"""
     def __init__(self):
         self.scrapers = [
-            WalkerplusScraper(max_pages=4),
+            WalkerplusScraper(max_pages=8),
             KonicaMinoltaScraper(),
             MiraikanScraper()
         ]

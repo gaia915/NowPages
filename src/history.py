@@ -32,7 +32,7 @@ class HistoryManager:
         except Exception as e:
             logger.error(f"Failed to save history file: {e}")
 
-    def update_events_with_history(self, events: List[Event], recent_days: int = 14) -> List[Event]:
+    def update_events_with_history(self, events: List[Event], recent_days: int = 7) -> List[Event]:
         """イベント一覧に first_seen_at と is_new フラグを付与する"""
         today_dt = datetime.now(JST)
         today_str = today_dt.strftime("%Y-%m-%d")
@@ -47,19 +47,9 @@ class HistoryManager:
                 record = self.history[ev.id]
                 ev.first_seen_at = record.get("first_seen_at", today_str)
             else:
-                # 初回登録（新規発見）
-                if is_first_run:
-                    # 初回実行時は、先頭の新しいイベント（またはNEW/注目が付いているもの）に段階的な日付を付与
-                    if idx < 12 or "NEW" in ev.status or "注目" in ev.status or "予告" in ev.status:
-                        ev.first_seen_at = today_str
-                        newly_added_ids.add(ev.id)
-                    else:
-                        prev_days = 15 + (idx % 20)
-                        ev.first_seen_at = (today_dt - timedelta(days=prev_days)).strftime("%Y-%m-%d")
-                else:
-                    ev.first_seen_at = today_str
-                    newly_added_ids.add(ev.id)
-
+                # 新規発見されたイベント
+                ev.first_seen_at = today_str
+                newly_added_ids.add(ev.id)
                 self.history[ev.id] = {
                     "first_seen_at": ev.first_seen_at,
                     "title": ev.title,
@@ -67,9 +57,9 @@ class HistoryManager:
                 }
 
             # 新着（is_new）判定:
-            # 1. cutoff_date 以降に追加された
+            # 1. cutoff_date（直近7日）以内に追加された
             # 2. 今回新しく追加された
-            # 3. 公式サイト側で「NEW」や「注目」バッジがある
+            # 3. 公式サイト側で「NEW」バッジがある
             if (ev.first_seen_at >= cutoff_date) or (ev.id in newly_added_ids) or ("NEW" in ev.status):
                 ev.is_new = True
             else:
@@ -79,15 +69,15 @@ class HistoryManager:
         return events
 
     @staticmethod
-    def get_recent_events(events: List[Event], limit: int = 8) -> List[Event]:
-        """最近追加された順にソートして上位を返す"""
-        # is_new なイベントを優先し、first_seen_at 降順でソート
+    def get_recent_events(events: List[Event], limit: int = 12) -> List[Event]:
+        """最近追加された順（first_seen_at 降順）にソートして上位を返す"""
+        # first_seen_at 降順を最優先でソート
         sorted_events = sorted(
             events,
             key=lambda e: (
+                e.first_seen_at or "1970-01-01",
                 1 if e.is_new else 0,
                 1 if "NEW" in e.status else 0,
-                e.first_seen_at or "1970-01-01",
                 1 if "開催中" in e.status else 0
             ),
             reverse=True

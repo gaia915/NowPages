@@ -208,22 +208,6 @@
     "is_new": false
   },
   {
-    "id": "e947f7fc56b2",
-    "title": "生解説プラネタリウム「秋の四辺形からはじまる ペガスス座の物語」",
-    "venue": "各地のプラネタリウム",
-    "area": "東京都",
-    "period": "2026年9月1日(火)～11月29日(日)",
-    "status": "開催中",
-    "genre": "映画イベント",
-    "description": "ペガスス座が主役のプラネタリウム番組",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/69/l/610969.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0313e610969/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-09-06",
-    "is_new": false
-  },
-  {
     "id": "8aacc4dcf3b4",
     "title": "久住高原星空の巡り（10月）",
     "venue": "各地のプラネタリウム",
@@ -237,6 +221,22 @@
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-09-05",
+    "is_new": false
+  },
+  {
+    "id": "e947f7fc56b2",
+    "title": "生解説プラネタリウム「秋の四辺形からはじまる ペガスス座の物語」",
+    "venue": "各地のプラネタリウム",
+    "area": "東京都",
+    "period": "2026年9月1日(火)～11月29日(日)",
+    "status": "開催中",
+    "genre": "映画イベント",
+    "description": "ペガスス座が主役のプラネタリウム番組",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/69/l/610969.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0313e610969/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-09-06",
     "is_new": false
   },
   {
@@ -288,22 +288,6 @@
     "is_new": false
   },
   {
-    "id": "df0c5ce6cacc",
-    "title": "久住高原星空の巡り（11月）",
-    "venue": "各地のプラネタリウム",
-    "area": "大分県",
-    "period": "2026年11月21日(土)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "神話の世界が瞬く。",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/43/l/610843.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar1044e610843/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-08-30",
-    "is_new": false
-  },
-  {
     "id": "856fe8b5b7eb",
     "title": "星空カフェ（10月）",
     "venue": "各地のプラネタリウム",
@@ -320,22 +304,6 @@
     "is_new": false
   },
   {
-    "id": "39b52961ab07",
-    "title": "昼間の星空観察会 ～太陽を観察しよう！～",
-    "venue": "各地のプラネタリウム",
-    "area": "北海道",
-    "period": "2026年5月5日(火)～10月18日(日)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "太陽を見てみよう！",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/20/l/591920.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0101e591920/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-09-03",
-    "is_new": false
-  },
-  {
     "id": "ba3dc131601b",
     "title": "星空映画会",
     "venue": "各地のプラネタリウム",
@@ -349,6 +317,38 @@
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
+    "id": "df0c5ce6cacc",
+    "title": "久住高原星空の巡り（11月）",
+    "venue": "各地のプラネタリウム",
+    "area": "大分県",
+    "period": "2026年11月21日(土)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "神話の世界が瞬く。",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/43/l/610843.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar1044e610843/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-08-30",
+    "is_new": false
+  },
+  {
+    "id": "39b52961ab07",
+    "title": "昼間の星空観察会 ～太陽を観察しよう！～",
+    "venue": "各地のプラネタリウム",
+    "area": "北海道",
+    "period": "2026年5月5日(火)～10月18日(日)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "太陽を見てみよう！",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/20/l/591920.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0101e591920/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-09-03",
     "is_new": false
   },
   {
@@ -384,22 +384,6 @@
     "is_new": false
   },
   {
-    "id": "61d8c96dfdc0",
-    "title": "星空観察会",
-    "venue": "各地のプラネタリウム",
-    "area": "長野県",
-    "period": "2026年7月24日(金)～10月30日(金)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "全国的にも数少ない第3世代の星空観察会",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/46/l/600546.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0420e600546/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-08-28",
-    "is_new": false
-  },
-  {
     "id": "0902cdb6e684",
     "title": "星空教室 ～秋の星座～",
     "venue": "各地のプラネタリウム",
@@ -413,6 +397,22 @@
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
+    "id": "61d8c96dfdc0",
+    "title": "星空観察会",
+    "venue": "各地のプラネタリウム",
+    "area": "長野県",
+    "period": "2026年7月24日(金)～10月30日(金)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "全国的にも数少ない第3世代の星空観察会",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/46/l/600546.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0420e600546/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-08-28",
     "is_new": false
   },
   {
@@ -432,22 +432,6 @@
     "is_new": false
   },
   {
-    "id": "49a43c999a57",
-    "title": "手作り天体望遠鏡体験in戸隠キャンプ場",
-    "venue": "各地のプラネタリウム",
-    "area": "長野県 長野市",
-    "period": "2026年7月18日(土)～10月31日(土)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "工作完成の喜び、見る楽しみ、2度楽しもう",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/05/l/601005.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0420e601005/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-09-27",
-    "is_new": false
-  },
-  {
     "id": "2a255b99ca9e",
     "title": "星空観察会「てんくう」（11月）",
     "venue": "各地のプラネタリウム",
@@ -458,22 +442,6 @@
     "description": "愛知県で1番高いところでの星空観察",
     "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/57/l/601557.jpg",
     "link_url": "https://www.walkerplus.com/event/ar0623e601557/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-10-04",
-    "is_new": false
-  },
-  {
-    "id": "fa419307c771",
-    "title": "大人女性の秋旅 シャトーワイナリーで味わう非日常 十国峠・天空の星空イルミネーション",
-    "venue": "各地のプラネタリウム",
-    "area": "神奈川県",
-    "period": "2026年11月7日(土)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "大人女性の秋旅 天空イルミネーション",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/76/l/614376.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0314e614376/",
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-04",
@@ -512,6 +480,38 @@
     "is_new": false
   },
   {
+    "id": "fa419307c771",
+    "title": "大人女性の秋旅 シャトーワイナリーで味わう非日常 十国峠・天空の星空イルミネーション",
+    "venue": "各地のプラネタリウム",
+    "area": "神奈川県",
+    "period": "2026年11月7日(土)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "大人女性の秋旅 天空イルミネーション",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/76/l/614376.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0314e614376/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
+    "id": "49a43c999a57",
+    "title": "手作り天体望遠鏡体験in戸隠キャンプ場",
+    "venue": "各地のプラネタリウム",
+    "area": "長野県 長野市",
+    "period": "2026年7月18日(土)～10月31日(土)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "工作完成の喜び、見る楽しみ、2度楽しもう",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/05/l/601005.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0420e601005/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-09-27",
+    "is_new": false
+  },
+  {
     "id": "d08535cdb67b",
     "title": "高校生プラネタリウム文化祭2026 君の星空",
     "venue": "各地のプラネタリウム",
@@ -526,22 +526,6 @@
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-07",
     "is_new": true
-  },
-  {
-    "id": "8fe07c42eb9b",
-    "title": "かなでの星空観察会",
-    "venue": "各地のプラネタリウム",
-    "area": "静岡県",
-    "period": "2026年5月23日(土)～11月3日(火)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "第3世代の楽しい星空観察会",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/98/l/594498.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0622e594498/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-09-02",
-    "is_new": false
   },
   {
     "id": "825b0b5d2d65",
@@ -560,19 +544,19 @@
     "is_new": false
   },
   {
-    "id": "d7b57b570243",
-    "title": "天文くらぶ「コペルニクス」秋の講座",
+    "id": "8fe07c42eb9b",
+    "title": "かなでの星空観察会",
     "venue": "各地のプラネタリウム",
-    "area": "京都府",
-    "period": "2026年10月18日(日)",
+    "area": "静岡県",
+    "period": "2026年5月23日(土)～11月3日(火)",
     "status": "開催中",
-    "genre": "講演会・トークショー",
-    "description": "小学生を対象とした天文体験講座",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/67/l/611267.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0726e611267/",
+    "genre": "体験イベント・アクティビティ",
+    "description": "第3世代の楽しい星空観察会",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/98/l/594498.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0622e594498/",
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
-    "first_seen_at": "2026-10-04",
+    "first_seen_at": "2026-09-02",
     "is_new": false
   },
   {
@@ -586,6 +570,22 @@
     "description": "秋の夜空にはどんな星が見えるかな？",
     "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/93/l/616593.jpg",
     "link_url": "https://www.walkerplus.com/event/ar0202e616593/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
+    "id": "d7b57b570243",
+    "title": "天文くらぶ「コペルニクス」秋の講座",
+    "venue": "各地のプラネタリウム",
+    "area": "京都府",
+    "period": "2026年10月18日(日)",
+    "status": "開催中",
+    "genre": "講演会・トークショー",
+    "description": "小学生を対象とした天文体験講座",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/67/l/611267.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0726e611267/",
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-04",
@@ -624,20 +624,20 @@
     "is_new": false
   },
   {
-    "id": "02094f05847e",
-    "title": "けいはんな子ども天文クラブ天体観望会～冬の星座と星団、星雲～",
+    "id": "959ef2d7634e",
+    "title": "けいはんな子ども天文クラブ天体観望会～土星と秋の星座～",
     "venue": "各地のプラネタリウム",
     "area": "京都府",
-    "period": "2026年11月29日(日)",
+    "period": "2026年10月31日(土)",
     "status": "開催中",
     "genre": "入場無料",
     "description": "公園で天体観望会",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/28/l/611228.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0726e611228/",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/27/l/611227.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0726e611227/",
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
-    "first_seen_at": "2026-10-05",
-    "is_new": false
+    "first_seen_at": "2026-10-14",
+    "is_new": true
   },
   {
     "id": "6f4e954065fc",
@@ -650,6 +650,22 @@
     "description": "季節の天体を天体望遠鏡で観測",
     "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/40/l/611040.jpg",
     "link_url": "https://www.walkerplus.com/event/ar0833e611040/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
+    "id": "af6079abb62f",
+    "title": "大人のためのプラネタリウム 生解説＆ライブ 星とピアノ",
+    "venue": "各地のプラネタリウム",
+    "area": "東京都 足立区",
+    "period": "2026年10月16日(金)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "大人の雰囲気を楽しもう！",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/16/l/616816.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0313e616816/",
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-04",
@@ -670,22 +686,6 @@
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-12",
     "is_new": true
-  },
-  {
-    "id": "af6079abb62f",
-    "title": "大人のためのプラネタリウム 生解説＆ライブ 星とピアノ",
-    "venue": "各地のプラネタリウム",
-    "area": "東京都 足立区",
-    "period": "2026年10月16日(金)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "大人の雰囲気を楽しもう！",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/16/l/616816.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0313e616816/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-10-04",
-    "is_new": false
   },
   {
     "id": "27b0ed9e9bbf",
@@ -752,6 +752,22 @@
     "is_new": false
   },
   {
+    "id": "4af14562793d",
+    "title": "冬の天体観望会",
+    "venue": "各地のプラネタリウム",
+    "area": "北海道",
+    "period": "2027年1月27日(水)～2月7日(日)",
+    "status": "開催中",
+    "genre": "体験イベント・アクティビティ",
+    "description": "国内最大級の望遠鏡で冬の天体を見よう！",
+    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/84/l/602084.jpg",
+    "link_url": "https://www.walkerplus.com/event/ar0101e602084/",
+    "source": "ウォーカープラス",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-10-04",
+    "is_new": false
+  },
+  {
     "id": "2b8777ad09e5",
     "title": "オリオン座輝く！満天の星空観察プラン",
     "venue": "各地のプラネタリウム",
@@ -784,22 +800,6 @@
     "is_new": false
   },
   {
-    "id": "4af14562793d",
-    "title": "冬の天体観望会",
-    "venue": "各地のプラネタリウム",
-    "area": "北海道",
-    "period": "2027年1月27日(水)～2月7日(日)",
-    "status": "開催中",
-    "genre": "体験イベント・アクティビティ",
-    "description": "国内最大級の望遠鏡で冬の天体を見よう！",
-    "image_url": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/84/l/602084.jpg",
-    "link_url": "https://www.walkerplus.com/event/ar0101e602084/",
-    "source": "ウォーカープラス",
-    "updated_at": "2026-10-13",
-    "first_seen_at": "2026-10-04",
-    "is_new": false
-  },
-  {
     "id": "fe5e68c5cab4",
     "title": "マイミニプラネタリウム作りに挑戦！",
     "venue": "各地のプラネタリウム",
@@ -813,7 +813,7 @@
     "source": "ウォーカープラス",
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-10-06",
-    "is_new": true
+    "is_new": false
   },
   {
     "id": "db375735e3a0",
@@ -1038,6 +1038,22 @@
     "updated_at": "2026-10-13",
     "first_seen_at": "2026-09-05",
     "is_new": false
+  },
+  {
+    "id": "1f94cd66487d",
+    "title": "【ラスト上映】中森明菜 ザ・ステージ・プラネタリウム",
+    "venue": "プラネタリアTOKYO(有楽町)",
+    "area": "東京・神奈川・愛知",
+    "period": "上映中（詳細は公式スケジュール参照）",
+    "status": "NEW",
+    "genre": "特別プログラム",
+    "description": "上映館/期間",
+    "image_url": "https://planetarium.konicaminolta.jp/wp-content/uploads/AkinaNakakamori_KV_main.jpg",
+    "link_url": "https://planetarium.konicaminolta.jp/program/akinanakamori/",
+    "source": "コニカミノルタ公式",
+    "updated_at": "2026-10-13",
+    "first_seen_at": "2026-10-14",
+    "is_new": true
   },
   {
     "id": "58016700a9dd",

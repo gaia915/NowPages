@@ -1,7 +1,7 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年10月22日 08:45  
-> 掲載件数: **55** 件 (うち開催中: **55** 件)
+> 最終自動更新: 2026年10月23日 08:42  
+> 掲載件数: **120** 件 (うち開催中: **59** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
 
@@ -10,11 +10,17 @@
 ## 🆕 最近追加された新着イベント（Pick Up）
 
 
+- **[【全館】撮影OK！​プラネタリウムできらめくクリスマス ​『イルミネーションウェルカムドーム』​​](https://planetarium.konicaminolta.jp/event/illumination/)**
+  - 会場: コニカミノルタプラネタリウム (首都圏・愛知) / 状態: `注目` / 追加日: `2026-10-23`
+
 - **[飯能なぐりの星空観察会](https://www.walkerplus.com/event/ar0311e620451/)**
   - 会場: 各地のプラネタリウム (埼玉県) / 状態: `開催中` / 追加日: `2026-10-22`
 
 - **[プラネタリウムで聴く『千年後の百人一首』](https://www.walkerplus.com/event/ar0727e619866/)**
   - 会場: 各地のプラネタリウム (大阪府) / 状態: `開催中` / 追加日: `2026-10-18`
+
+- **[フランス 星めぐりの空で](https://planetarium.konicaminolta.jp/program/france/)**
+  - 会場: プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-10-16`
 
 - **[旧若柳駅発 架空鉄道 星空列車](https://www.walkerplus.com/event/ar0204e619212/)**
   - 会場: 各地のプラネタリウム (宮城県) / 状態: `開催中` / 追加日: `2026-10-15`
@@ -24,6 +30,9 @@
 
 - **[星空ラジオinサイピア（11月）](https://www.walkerplus.com/event/ar0833e619280/)**
   - 会場: 各地のプラネタリウム (岡山県) / 状態: `開催中` / 追加日: `2026-10-15`
+
+- **[【ラスト上映】中森明菜 ザ・ステージ・プラネタリウム](https://planetarium.konicaminolta.jp/program/akinanakamori/)**
+  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-10-14`
 
 - **[けいはんな子ども天文クラブ天体観望会～土星と秋の星座～](https://www.walkerplus.com/event/ar0726e611227/)**
   - 会場: 各地のプラネタリウム (京都府) / 状態: `開催中` / 追加日: `2026-10-14`
@@ -37,20 +46,22 @@
 - **[高校生プラネタリウム文化祭2026 君の星空](https://www.walkerplus.com/event/ar0311e617856/)**
   - 会場: 各地のプラネタリウム (埼玉県) / 状態: `開催中` / 追加日: `2026-10-07`
 
-- **[科学教室「天文学習 秋の星空と天体観察」](https://www.walkerplus.com/event/ar0834e618070/)**
-  - 会場: 各地のプラネタリウム (広島県) / 状態: `開催中` / 追加日: `2026-10-07`
-
-- **[マイミニプラネタリウム作りに挑戦！](https://www.walkerplus.com/event/ar0314e617817/)**
-  - 会場: 各地のプラネタリウム (神奈川県) / 状態: `開催中` / 追加日: `2026-10-06`
-
-- **[星空映画会](https://www.walkerplus.com/event/ar0312e615630/)**
-  - 会場: 各地のプラネタリウム (千葉県) / 状態: `開催中` / 追加日: `2026-10-04`
-
 
 ---
 
-## 🌟 全掲載イベント一覧 (55件)
+## 🌟 全掲載イベント一覧 (120件)
 
+
+### [【全館】撮影OK！​プラネタリウムできらめくクリスマス ​『イルミネーションウェルカムドーム』​​](https://planetarium.konicaminolta.jp/event/illumination/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年10月22日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/illumination/) (情報元: コニカミノルタ公式)
+
+
+
+---
 
 ### [飯能なぐりの星空観察会](https://www.walkerplus.com/event/ar0311e620451/)
 - **会場**: 各地のプラネタリウム (埼玉県)
@@ -74,6 +85,19 @@
 
 
 ![プラネタリウムで聴く『千年後の百人一首』](https://ms-cache.walkerplus.com/walkertouch/wtd/event/66/l/619866.jpg)
+
+
+---
+
+### [フランス 星めぐりの空で](https://planetarium.konicaminolta.jp/program/france/)
+- **会場**: プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/france/) (情報元: コニカミノルタ公式)
+
+
+![フランス 星めぐりの空で](https://planetarium.konicaminolta.jp/wp-content/uploads/france_hoshimeguri_kv.jpg)
 
 
 ---
@@ -113,6 +137,19 @@
 
 
 ![星空ラジオinサイピア（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/80/l/619280.jpg)
+
+
+---
+
+### [【ラスト上映】中森明菜 ザ・ステージ・プラネタリウム](https://planetarium.konicaminolta.jp/program/akinanakamori/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/akinanakamori/) (情報元: コニカミノルタ公式)
+
+
+![【ラスト上映】中森明菜 ザ・ステージ・プラネタリウム](https://planetarium.konicaminolta.jp/wp-content/uploads/AkinaNakakamori_KV_main.jpg)
 
 
 ---
@@ -312,19 +349,6 @@
 
 ---
 
-### [久住高原星空の巡り（12月）](https://www.walkerplus.com/event/ar1044e610845/)
-- **会場**: 各地のプラネタリウム (大分県)
-- **期間**: 2026年12月19日(土)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 神話の世界が瞬く。
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e610845/) (情報元: ウォーカープラス)
-
-
-![久住高原星空の巡り（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/45/l/610845.jpg)
-
-
----
-
 ### [倉敷科学センター 天体観望会（11月）](https://www.walkerplus.com/event/ar0833e611040/)
 - **会場**: 各地のプラネタリウム (岡山県 倉敷市)
 - **期間**: 2026年11月7日(土)
@@ -334,6 +358,19 @@
 
 
 ![倉敷科学センター 天体観望会（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/40/l/611040.jpg)
+
+
+---
+
+### [久住高原星空の巡り（12月）](https://www.walkerplus.com/event/ar1044e610845/)
+- **会場**: 各地のプラネタリウム (大分県)
+- **期間**: 2026年12月19日(土)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 神話の世界が瞬く。
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e610845/) (情報元: ウォーカープラス)
+
+
+![久住高原星空の巡り（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/45/l/610845.jpg)
 
 
 ---
@@ -351,19 +388,6 @@
 
 ---
 
-### [冬の天体観望会](https://www.walkerplus.com/event/ar0101e602084/)
-- **会場**: 各地のプラネタリウム (北海道)
-- **期間**: 2027年1月27日(水)～2月7日(日)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 国内最大級の望遠鏡で冬の天体を見よう！
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0101e602084/) (情報元: ウォーカープラス)
-
-
-![冬の天体観望会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/84/l/602084.jpg)
-
-
----
-
 ### [オリオン座輝く！満天の星空観察プラン](https://www.walkerplus.com/event/ar0419e614251/)
 - **会場**: 各地のプラネタリウム (山梨県)
 - **期間**: 2026年12月4日(金)～13日(日)
@@ -377,19 +401,6 @@
 
 ---
 
-### [手作り天体望遠鏡体験in奏の森リゾート](https://www.walkerplus.com/event/ar0622e601006/)
-- **会場**: 各地のプラネタリウム (静岡県)
-- **期間**: 2026年5月23日(土)～11月3日(火)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 工作完成の喜び、見る楽しみ、2度楽しもう
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0622e601006/) (情報元: ウォーカープラス)
-
-
-![手作り天体望遠鏡体験in奏の森リゾート](https://ms-cache.walkerplus.com/walkertouch/wtd/event/06/l/601006.jpg)
-
-
----
-
 ### [天体観望会 in くにさき2026Winter](https://www.walkerplus.com/event/ar0728e616731/)
 - **会場**: 各地のプラネタリウム (兵庫県)
 - **期間**: 2026年12月12日(土)
@@ -399,6 +410,32 @@
 
 
 ![天体観望会 in くにさき2026Winter](https://ms-cache.walkerplus.com/walkertouch/wtd/event/31/l/616731.jpg)
+
+
+---
+
+### [冬の天体観望会](https://www.walkerplus.com/event/ar0101e602084/)
+- **会場**: 各地のプラネタリウム (北海道)
+- **期間**: 2027年1月27日(水)～2月7日(日)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 国内最大級の望遠鏡で冬の天体を見よう！
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0101e602084/) (情報元: ウォーカープラス)
+
+
+![冬の天体観望会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/84/l/602084.jpg)
+
+
+---
+
+### [手作り天体望遠鏡体験in奏の森リゾート](https://www.walkerplus.com/event/ar0622e601006/)
+- **会場**: 各地のプラネタリウム (静岡県)
+- **期間**: 2026年5月23日(土)～11月3日(火)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 工作完成の喜び、見る楽しみ、2度楽しもう
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0622e601006/) (情報元: ウォーカープラス)
+
+
+![手作り天体望遠鏡体験in奏の森リゾート](https://ms-cache.walkerplus.com/walkertouch/wtd/event/06/l/601006.jpg)
 
 
 ---
@@ -438,6 +475,28 @@
 
 
 ![倉敷科学センター 天体観望会（2月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/71/l/611271.jpg)
+
+
+---
+
+### [Starry Members流れ星クーポン「サカナクション グッドナイト・プラネタリウム 公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/sakanaction-coupon/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2026年10月2日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/sakanaction-coupon/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】5周年記念プレゼントキャンペーン開催！](https://planetarium.konicaminolta.jp/event/nagoya_anniversary_5th/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年9月30日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/nagoya_anniversary_5th/) (情報元: コニカミノルタ公式)
+
 
 
 ---
@@ -490,6 +549,123 @@
 
 
 ![星空カフェ（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/39/l/611039.jpg)
+
+
+---
+
+### [宙にとける夜 -うちゅうヒーリング-](https://planetarium.konicaminolta.jp/program/soranitokeru/)
+- **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / 天空(押上) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `ヒーリングプラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/soranitokeru/) (情報元: コニカミノルタ公式)
+
+
+![宙にとける夜 -うちゅうヒーリング-](https://planetarium.konicaminolta.jp/wp-content/uploads/uchuuhealing_kv.jpg)
+
+
+---
+
+### [流れ星を探して feat. BUMP OF CHICKEN](https://planetarium.konicaminolta.jp/program/bumpofchicken/)
+- **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / 天空(押上) / プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/bumpofchicken/) (情報元: コニカミノルタ公式)
+
+
+![流れ星を探して feat. BUMP OF CHICKEN](https://planetarium.konicaminolta.jp/wp-content/uploads/bump_kv.jpg)
+
+
+---
+
+### [Twinkle Seven Stars ～満天のプレゼント～ from なにわ男子](https://planetarium.konicaminolta.jp/program/naniwadanshi/)
+- **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / 天空(押上) / プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/naniwadanshi/) (情報元: コニカミノルタ公式)
+
+
+![Twinkle Seven Stars ～満天のプレゼント～ from なにわ男子](https://planetarium.konicaminolta.jp/wp-content/uploads/TwinkleSevenStars_KV_0911_rvs.jpg)
+
+
+---
+
+### [プラネタリウム ドラえもん 時間のひみつ](https://planetarium.konicaminolta.jp/program/doraemon2026/)
+- **会場**: 満天(池袋) / 天空(押上) / プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/doraemon2026/) (情報元: コニカミノルタ公式)
+
+
+![プラネタリウム ドラえもん 時間のひみつ](https://planetarium.konicaminolta.jp/wp-content/uploads/260612_doraemon_jikannohimitsu.jpg)
+
+
+---
+
+### [【名古屋特別公演】Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/program/monetclassic-nagoya/)
+- **会場**: 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/monetclassic-nagoya/) (情報元: コニカミノルタ公式)
+
+
+![【名古屋特別公演】Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_KV_yoko_m.jpg)
+
+
+---
+
+### [Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/program/monetclassic/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/monetclassic/) (情報元: コニカミノルタ公式)
+
+
+![Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_KV_yoko_m.jpg)
+
+
+---
+
+### [イマーシブ プラネタリウム ―モネ―](https://planetarium.konicaminolta.jp/program/immersive_monet/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/immersive_monet/) (情報元: コニカミノルタ公式)
+
+
+![イマーシブ プラネタリウム ―モネ―](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_kv.jpg)
+
+
+---
+
+### [【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/program/queen/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/queen/) (情報元: コニカミノルタ公式)
+
+
+![【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/wp-content/uploads/「QUEEN-HEAVEN-」作品写真小.jpg)
+
+
+---
+
+### [星と怖い神話 怖い絵×プラネタリウム](https://planetarium.konicaminolta.jp/program/kowai_shinwa/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/kowai_shinwa/) (情報元: コニカミノルタ公式)
+
+
+![星と怖い神話 怖い絵×プラネタリウム](https://planetarium.konicaminolta.jp/wp-content/uploads/kowai_kv.jpg)
 
 
 ---
@@ -572,6 +748,512 @@
 
 ---
 
+### [【キャリア採用】星空と感動をつくる仲間を募集しています](https://planetarium.konicaminolta.jp/event/gijutsu_recruit/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2026年9月9日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/gijutsu_recruit/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [星を見る場所から、星を“感じる”場所へ。進化するプラネタリウムの世界](https://planetarium.konicaminolta.jp/event/tech-in-life/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2026年8月20日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/tech-in-life/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアYOKOHAMA】三月のパンタシア：LIVE EXPERIENCE of DYNAVISION-LED](https://planetarium.konicaminolta.jp/event/phantasia_led/)
+- **会場**: プラネタリアYOKOHAMA (神奈川県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年4月15日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/phantasia_led/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【福岡市科学館】特別アンコール上映『中森明菜 ザ・ステージ・プラネタリウム』](https://planetarium.konicaminolta.jp/event/fukuoka_akina_2604/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2026年3月12日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/fukuoka_akina_2604/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [プラネタリウムに雪が降る！期間限定「雪と星座のARフォトフレーム」](https://planetarium.konicaminolta.jp/event/illumination_ar/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年11月20日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/illumination_ar/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【重要なお知らせ】チケット購入時の重複購入について](https://planetarium.konicaminolta.jp/event/ticket_error_form/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 重要なお知らせ 2026年6月25日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/ticket_error_form/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [『流れ星を探して feat. BUMP OF CHICKEN』グッズ販売詳細](https://planetarium.konicaminolta.jp/event/bumpofchicken_goods/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年7月15日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/bumpofchicken_goods/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】ディズニーの名作『ピーター・パン』『シンデレラ』『ピノキオ』の限定コレクション発売決定！！](https://planetarium.konicaminolta.jp/event/disney_collection1/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2025年11月5日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/disney_collection1/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [秋の夜長を楽しむお月見フェア『Autumn Moonlight Fair -月あかりに包まれて-』 9月11日(金)より開催！](https://planetarium.konicaminolta.jp/event/otsukimi/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年9月2日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/otsukimi/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [カプセルトイ商品「コニカミノルタプラネタリウム スタードーム」「インフィニウムΣ(シグマ) ミニチュアプロジェクター」発売！](https://planetarium.konicaminolta.jp/event/capsule_toy/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年7月30日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/capsule_toy/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【Starry Members会員限定】誕生星座月クーポン配布！](https://planetarium.konicaminolta.jp/event/st_zodiac/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2026年3月16日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/st_zodiac/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【都内3館】Starry Members 流れ星クーポン 「『フィジーヒーリング ～南十字星と幸せの島～』公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/fiji_coupon/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2026年1月16日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/fiji_coupon/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】Starry Members 流れ星クーポン「『北海道ヒーリング ～おなじ星空の下で～』公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/hokkaido_coupon/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2025年5月30日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/hokkaido_coupon/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】『Rie Nemoto 言葉をもたない歌 Release Concert in Planetarium』開催決定！](https://planetarium.konicaminolta.jp/event/rienemoto/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年1月17日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/rienemoto/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [コニカミノルタプラネタリウム直営館一部料金改定のお知らせ](https://planetarium.konicaminolta.jp/event/ryokin-kaitei/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2025年7月9日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/ryokin-kaitei/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】 施設紹介記事が掲載されました](https://planetarium.konicaminolta.jp/event/atlaslog/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2025年10月16日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/atlaslog/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】 施設紹介記事が掲載されました](https://planetarium.konicaminolta.jp/event/newt/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2025年4月15日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/newt/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】石垣優 Planetarium Live ～空に星、心に歌を～ 春](https://planetarium.konicaminolta.jp/event/ishigakiyu/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年1月8日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/ishigakiyu/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】プラネタリウムで甘くて美味しい宇宙を楽しめる特別なフェア 『SWEET UNIVERSE ～甘い宇宙～』開催！](https://planetarium.konicaminolta.jp/event/sweetuniverse/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年1月15日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/sweetuniverse/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】撮影OK！プラネタリウムでバレンタインの甘い思い出を♡ピンク色の星空にチョコレートが浮かぶ​「バレンタインウェルカムドーム」](https://planetarium.konicaminolta.jp/event/valentine/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年12月18日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/valentine/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアYOKOHAMA】 ​ #CENTRAL_YOKOHAMA​に参加！](https://planetarium.konicaminolta.jp/event/central_music/)
+- **会場**: プラネタリアYOKOHAMA (神奈川県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年3月27日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/central_music/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】元旦限定500円割引キャンペーン開催！](https://planetarium.konicaminolta.jp/event/newyear_manten-nagoya/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2025年12月15日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/newyear_manten-nagoya/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】ショップにて「 STAR WAVE COFFEE」プレゼントキャンペーン開催！](https://planetarium.konicaminolta.jp/event/mnagcp_magu/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年7月30日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/mnagcp_magu/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】星空×和婚のフォトウェディングプラン販売中！](https://planetarium.konicaminolta.jp/event/wedding_photo_wakon_style/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2024年11月1日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/wedding_photo_wakon_style/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】3日間限定 対象商品10％OFFキャンペーン](https://planetarium.konicaminolta.jp/event/nagoya_themoon_sale/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2024年10月3日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/nagoya_themoon_sale/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリウム満天】リニューアル休館のお知らせ](https://planetarium.konicaminolta.jp/event/manten_renewal/)
+- **会場**: プラネタリウム満天（池袋） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2024年10月1日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/manten_renewal/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】七夕期間の平日限定「星空のプレゼント」開催](https://planetarium.konicaminolta.jp/event/hoshipre_tanabata2024/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2024年6月13日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/hoshipre_tanabata2024/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】撮影OK！プラネタリウムでHALLOWEEN NIGHT​ 「ハロウィンウェルカムドーム」 “秘密の森のハロウィンパーティー”開催！​](https://planetarium.konicaminolta.jp/event/halloween/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年8月31日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/halloween/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】撮影OK！ 涼しいプラネタリウムで夏の夜空を楽しむ 『花火ウェルカムドーム』](https://planetarium.konicaminolta.jp/event/hanabi/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年7月2日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/hanabi/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【全館】プラネタリウムで花火が撮れる！「花火ウェルカムドーム」＆「花火AR」7月18日(金)より打ち上げ開始！夏の関連商品を集めたショップのフェアも](https://planetarium.konicaminolta.jp/event/hanabi_welcome2025/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年6月26日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/hanabi_welcome2025/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [プレミアムシートが当たる！ 「流れ星を探して feat. BUMP OF CHICKEN」 ペルセウス座流星群連動キャンペーン開催！](https://planetarium.konicaminolta.jp/event/meteorshower/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年7月16日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/meteorshower/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [プレミアムシート鑑賞券が当たる！「宙の音 –Music of the Universe- feat.角野隼斗」宇宙の日キャンペーン開催！](https://planetarium.konicaminolta.jp/event/soranooto/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年8月27日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/soranooto/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリウム天空】14周年記念 プレゼントキャンペーン開催！](https://planetarium.konicaminolta.jp/event/tenku_anniversary/)
+- **会場**: プラネタリウム天空（押上） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年4月27日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/tenku_anniversary/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリウム天空】13周年記念 プレゼントキャンペーン開催！](https://planetarium.konicaminolta.jp/event/tenku13years/)
+- **会場**: プラネタリウム天空（押上） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年4月18日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/tenku13years/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアYOKOHAMA】​ 4周年記念！横浜の夜景と春の星座を期間限定で上映！ 来場記念スタンプも設置](https://planetarium.konicaminolta.jp/event/yokohama_anniversary/)
+- **会場**: プラネタリアYOKOHAMA (神奈川県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2026年3月19日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/yokohama_anniversary/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【ENHYPENコラボ上映終了まであと1か月！】カウントダウンキャンペーン](https://planetarium.konicaminolta.jp/event/enhypen_cp/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2025年2月5日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/enhypen_cp/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】国内最古級プラネタリウムの公開展示が決定！](https://planetarium.konicaminolta.jp/event/2023ms10/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2023年10月5日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/2023ms10/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天(池袋)】ホラー好き必見！この秋、池袋がホラーで染まる！サンシャインシティでホラーイベントを満喫！](https://planetarium.konicaminolta.jp/event/horror_campaign/)
+- **会場**: プラネタリウム満天（池袋） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年9月16日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/horror_campaign/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天(池袋)】ショップ「Gallery Planetaria」でキャンペーン開催！](https://planetarium.konicaminolta.jp/event/manten_2602_shop/)
+- **会場**: プラネタリウム満天（池袋） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2026年2月2日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/manten_2602_shop/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリアTOKYO】ヨガ＆サウンドバスで『AWAKEME 〜Pink Moon Awakening〜』開催](https://planetarium.konicaminolta.jp/event/awakeme6/)
+- **会場**: プラネタリアTOKYO（有楽町） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2025年4月1日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/awakeme6/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリウム満天】 「KAGAYA 星空の世界展」相互利用特典](https://planetarium.konicaminolta.jp/event/seibu_kagaya/)
+- **会場**: プラネタリウム満天（池袋） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2023年5月10日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/seibu_kagaya/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】名古屋市科学館プラネタリウムのチケット持参で10％OFF](https://planetarium.konicaminolta.jp/event/nagoya_city/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2023年2月2日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/nagoya_city/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【満天NAGOYA】ショップ『Gallery Planetaria』にて、​ Thank Youフォローキャンペーン実施中！](https://planetarium.konicaminolta.jp/event/nagoya_stars3000/)
+- **会場**: プラネタリウム満天NAGOYA (愛知県)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: イベント 2023年1月6日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/nagoya_stars3000/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【プラネタリウム天空 】10周年を記念してギフトショップがNEWオープン！](https://planetarium.konicaminolta.jp/event/tenkushop_22rn/)
+- **会場**: プラネタリウム天空（押上） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2022年9月1日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/tenkushop_22rn/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [【天空】お得にセットで楽しめるプラン「スカイツリー®エンジョイパック」が登場！](https://planetarium.konicaminolta.jp/event/enjoypack/)
+- **会場**: プラネタリウム天空（押上） (東京都)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: お知らせ 2021年7月8日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/enjoypack/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
+### [全館共通鑑賞引換券、割引券、各種クーポン、電子チケット（giftee、LINKTIVITY）、カタログギフト、Starry Members member特典クーポンについて](https://planetarium.konicaminolta.jp/event/gift_ticket/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 重要なお知らせ 2024年6月27日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/gift_ticket/) (情報元: コニカミノルタ公式)
+
+
+
+---
+
 ### [『9次元からきた男』 （3D作品） 物理学の究極の目標である「万物の理論」をテーマにした映像作品です。難解な数式で表現される理論物理学の最前線を、実写と精緻なCG・データビジュアライゼーションを融合させた映像で体感していただけます。 【一般向け／科学映像作品（約30分）】 『9次元からきた男』について詳しくみる](https://www.miraikan.jst.go.jp/exhibitions/dometheater/9dimensions/)
 - **会場**: 日本科学未来館 ドームシアターガイア (東京都 江東区（お台場）)
 - **期間**: 常設・定期上映（要事前予約・スケジュール確認）
@@ -624,6 +1306,32 @@
 
 ---
 
+### [サカナクション グッドナイト・プラネタリウム](https://planetarium.konicaminolta.jp/program/sakanaction/)
+- **会場**: 満天(池袋) / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/sakanaction/) (情報元: コニカミノルタ公式)
+
+
+![サカナクション グッドナイト・プラネタリウム](https://planetarium.konicaminolta.jp/wp-content/uploads/サカナクション_作品ビジュアル2018.jpg)
+
+
+---
+
+### [宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/program/soranooto/)
+- **会場**: プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/soranooto/) (情報元: コニカミノルタ公式)
+
+
+![宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/wp-content/uploads/mou_kv_lst.png)
+
+
+---
+
 ### [かなでの星空観察会](https://www.walkerplus.com/event/ar0622e594498/)
 - **会場**: 各地のプラネタリウム (静岡県)
 - **期間**: 2026年5月23日(土)～11月3日(火)
@@ -637,6 +1345,19 @@
 
 ---
 
+### [R18オトナ♡プラネタリウム 2回戦 -古代ギリシャのハレンチナイト-](https://planetarium.konicaminolta.jp/program/otona2/)
+- **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/otona2/) (情報元: コニカミノルタ公式)
+
+
+![R18オトナ♡プラネタリウム 2回戦 -古代ギリシャのハレンチナイト-](https://planetarium.konicaminolta.jp/wp-content/uploads/R18OP2_KV_01.jpg)
+
+
+---
+
 ### [楽しい星空観察会in戸隠キャンプ場](https://www.walkerplus.com/event/ar0420e600542/)
 - **会場**: 各地のプラネタリウム (長野県 長野市)
 - **期間**: 2026年7月18日(土)～10月31日(土)
@@ -646,6 +1367,19 @@
 
 
 ![楽しい星空観察会in戸隠キャンプ場](https://ms-cache.walkerplus.com/walkertouch/wtd/event/42/l/600542.jpg)
+
+
+---
+
+### [星の旅 -世界編- 特別ロングバージョン](https://planetarium.konicaminolta.jp/program/hoshinotabi/)
+- **会場**: プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/hoshinotabi/) (情報元: コニカミノルタ公式)
+
+
+![星の旅 -世界編- 特別ロングバージョン](https://planetarium.konicaminolta.jp/wp-content/uploads/kv.jpg)
 
 
 ---
@@ -678,7 +1412,7 @@
 
 ### [星空観察会](https://www.walkerplus.com/event/ar0420e600546/)
 - **会場**: 各地のプラネタリウム (長野県)
-- **期間**: 2026年7月24日(金)～10月30日(金)
+- **期間**: 終了間近 2026年7月24日(金)～10月30日(金)
 - **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
 - **概要**: 全国的にも数少ない第3世代の星空観察会
 - **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0420e600546/) (情報元: ウォーカープラス)
@@ -711,6 +1445,19 @@
 
 
 ![プラネタリウムキッズアワー 9月・10月のテーマ「秋の星座とお月見」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/70/l/612970.jpg)
+
+
+---
+
+### [フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/program/fiji_healing/)
+- **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / 天空(押上) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `終了間近` | `ヒーリングプラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/fiji_healing/) (情報元: コニカミノルタ公式)
+
+
+![フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/wp-content/uploads/Fiji_KV_yoko_1126.jpg)
 
 
 ---

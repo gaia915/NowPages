@@ -1,6 +1,6 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年11月04日 09:56  
+> 最終自動更新: 2026年11月05日 10:07  
 > 掲載件数: **124** 件 (うち開催中: **60** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
@@ -9,6 +9,15 @@
 
 ## 🆕 最近追加された新着イベント（Pick Up）
 
+
+- **[Planetarium Concert -アドリアの星空と映画「紅の豚」の音楽-](https://planetarium.konicaminolta.jp/program/adriaticstar/)**
+  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-11-05`
+
+- **[宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/program/soranooto/)**
+  - 会場: プラネタリアYOKOHAMA (東京・神奈川・愛知) / 状態: `上映中` / 追加日: `2026-11-05`
+
+- **[【都内3館】Starry Members 流れ星クーポン『宙にとける夜 –うちゅうヒーリング-』公開記念10%OFF](https://planetarium.konicaminolta.jp/event/soranitokeru_coupon/)**
+  - 会場: コニカミノルタプラネタリウム (首都圏・愛知) / 状態: `注目` / 追加日: `2026-11-05`
 
 - **[冬の星空観察会2026](https://www.walkerplus.com/event/ar0728e622357/)**
   - 会場: 各地のプラネタリウム (兵庫県) / 状態: `開催中` / 追加日: `2026-11-04`
@@ -37,20 +46,48 @@
 - **[イマーシブ プラネタリウム ―モネ―(再上映)](https://www.walkerplus.com/event/ar0313e587195/)**
   - 会場: コニカミノルタプラネタリアTOKYO (東京都 千代田区) / 状態: `開催中` / 追加日: `2026-10-29`
 
-- **[星と怖い神話 怖い絵×プラネタリウム](https://www.walkerplus.com/event/ar0313e617041/)**
-  - 会場: コニカミノルタプラネタリアTOKYO (東京都 千代田区) / 状態: `開催中` / 追加日: `2026-10-27`
-
-- **[「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（11月）](https://www.walkerplus.com/event/ar0313e620549/)**
-  - 会場: 各地のプラネタリウム (東京都 足立区) / 状態: `開催中` / 追加日: `2026-10-26`
-
-- **[大隅広域公園 星空観察会](https://www.walkerplus.com/event/ar1046e620946/)**
-  - 会場: 各地のプラネタリウム (鹿児島県) / 状態: `開催中` / 追加日: `2026-10-25`
-
 
 ---
 
 ## 🌟 全掲載イベント一覧 (124件)
 
+
+### [Planetarium Concert -アドリアの星空と映画「紅の豚」の音楽-](https://planetarium.konicaminolta.jp/program/adriaticstar/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/adriaticstar/) (情報元: コニカミノルタ公式)
+
+
+![Planetarium Concert -アドリアの星空と映画「紅の豚」の音楽-](https://planetarium.konicaminolta.jp/wp-content/uploads/PlanetariumConcert_adriaticstar_KVmain_medium-2.jpg)
+
+
+---
+
+### [宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/program/soranooto/)
+- **会場**: プラネタリアYOKOHAMA (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/soranooto/) (情報元: コニカミノルタ公式)
+
+
+![宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/wp-content/uploads/mou_kv_lst.png)
+
+
+---
+
+### [【都内3館】Starry Members 流れ星クーポン『宙にとける夜 –うちゅうヒーリング-』公開記念10%OFF](https://planetarium.konicaminolta.jp/event/soranitokeru_coupon/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2026年11月5日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/soranitokeru_coupon/) (情報元: コニカミノルタ公式)
+
+
+
+---
 
 ### [冬の星空観察会2026](https://www.walkerplus.com/event/ar0728e622357/)
 - **会場**: 各地のプラネタリウム (兵庫県)
@@ -477,15 +514,15 @@
 
 ---
 
-### [久住高原星空の巡り（12月）](https://www.walkerplus.com/event/ar1044e610845/)
-- **会場**: 各地のプラネタリウム (大分県)
-- **期間**: 2026年12月19日(土)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 神話の世界が瞬く。
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e610845/) (情報元: ウォーカープラス)
+### [倉敷科学センター 天体観望会（11月）](https://www.walkerplus.com/event/ar0833e611040/)
+- **会場**: 各地のプラネタリウム (岡山県 倉敷市)
+- **期間**: 2026年11月7日(土)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: 季節の天体を天体望遠鏡で観測
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e611040/) (情報元: ウォーカープラス)
 
 
-![久住高原星空の巡り（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/45/l/610845.jpg)
+![倉敷科学センター 天体観望会（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/40/l/611040.jpg)
 
 
 ---
@@ -503,19 +540,6 @@
 
 ---
 
-### [倉敷科学センター 天体観望会（11月）](https://www.walkerplus.com/event/ar0833e611040/)
-- **会場**: 各地のプラネタリウム (岡山県 倉敷市)
-- **期間**: 2026年11月7日(土)
-- **状態 / ジャンル**: `開催中` | `入場無料`
-- **概要**: 季節の天体を天体望遠鏡で観測
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e611040/) (情報元: ウォーカープラス)
-
-
-![倉敷科学センター 天体観望会（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/40/l/611040.jpg)
-
-
----
-
 ### [倉敷科学センター 天体観望会（12月）](https://www.walkerplus.com/event/ar0833e611041/)
 - **会場**: 各地のプラネタリウム (岡山県 倉敷市)
 - **期間**: 2026年12月5日(土)
@@ -525,6 +549,19 @@
 
 
 ![倉敷科学センター 天体観望会（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/41/l/611041.jpg)
+
+
+---
+
+### [久住高原星空の巡り（12月）](https://www.walkerplus.com/event/ar1044e610845/)
+- **会場**: 各地のプラネタリウム (大分県)
+- **期間**: 2026年12月19日(土)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 神話の世界が瞬く。
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar1044e610845/) (情報元: ウォーカープラス)
+
+
+![久住高原星空の巡り（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/45/l/610845.jpg)
 
 
 ---
@@ -729,19 +766,6 @@
 
 
 ![【名古屋特別公演】Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_KV_yoko_m.jpg)
-
-
----
-
-### [Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/program/monetclassic/)
-- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `NEW` | `特別プログラム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/monetclassic/) (情報元: コニカミノルタ公式)
-
-
-![Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_KV_yoko_m.jpg)
 
 
 ---
@@ -979,17 +1003,6 @@
 - **状態 / ジャンル**: `注目` | `特別イベント`
 - **概要**: 割引 2026年3月16日
 - **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/st_zodiac/) (情報元: コニカミノルタ公式)
-
-
-
----
-
-### [【都内3館】Starry Members 流れ星クーポン 「『フィジーヒーリング ～南十字星と幸せの島～』公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/fiji_coupon/)
-- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
-- **期間**: 最新イベント・期間限定
-- **状態 / ジャンル**: `注目` | `特別イベント`
-- **概要**: 割引 2026年1月16日
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/fiji_coupon/) (情報元: コニカミノルタ公式)
 
 
 
@@ -1430,19 +1443,6 @@
 
 
 ![サカナクション グッドナイト・プラネタリウム](https://planetarium.konicaminolta.jp/wp-content/uploads/サカナクション_作品ビジュアル2018.jpg)
-
-
----
-
-### [宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/program/soranooto/)
-- **会場**: プラネタリアYOKOHAMA / 満天NAGOYA (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `上映中` | `プラネタリウム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/soranooto/) (情報元: コニカミノルタ公式)
-
-
-![宙の音 -Music of the Universe- feat.角野隼斗](https://planetarium.konicaminolta.jp/wp-content/uploads/mou_kv_lst.png)
 
 
 ---

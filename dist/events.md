@@ -1,6 +1,6 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年11月09日 09:10  
+> 最終自動更新: 2026年11月10日 12:00  
 > 掲載件数: **114** 件 (うち開催中: **54** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
@@ -9,6 +9,9 @@
 
 ## 🆕 最近追加された新着イベント（Pick Up）
 
+
+- **[Planetarium Concert -流星と映画「ハウルの動く城」の音楽-](https://planetarium.konicaminolta.jp/program/shootingstar_concert/)**
+  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-11-10`
 
 - **[プラネタリウム ほしぞら宇宙生解説「宇宙のものさし ～広い宇宙を測るには～」](https://www.walkerplus.com/event/ar0313e622983/)**
   - 会場: 各地のプラネタリウム (東京都 板橋区) / 状態: `開催中` / 追加日: `2026-11-08`
@@ -43,14 +46,24 @@
 - **[星空保護区認定5周年記念イベント「星降る美星に、美声を。」](https://www.walkerplus.com/event/ar0833e621993/)**
   - 会場: 各地のプラネタリウム (岡山県) / 状態: `開催中` / 追加日: `2026-10-31`
 
-- **[プラネタリウム版「チ。 ―地球の運動について―」](https://www.walkerplus.com/event/ar0313e621350/)**
-  - 会場: 各地のプラネタリウム (東京都 足立区) / 状態: `開催中` / 追加日: `2026-10-29`
-
 
 ---
 
 ## 🌟 全掲載イベント一覧 (114件)
 
+
+### [Planetarium Concert -流星と映画「ハウルの動く城」の音楽-](https://planetarium.konicaminolta.jp/program/shootingstar_concert/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/shootingstar_concert/) (情報元: コニカミノルタ公式)
+
+
+![Planetarium Concert -流星と映画「ハウルの動く城」の音楽-](https://planetarium.konicaminolta.jp/wp-content/uploads/Howl_main_KV_m.jpg)
+
+
+---
 
 ### [プラネタリウム ほしぞら宇宙生解説「宇宙のものさし ～広い宇宙を測るには～」](https://www.walkerplus.com/event/ar0313e622983/)
 - **会場**: 各地のプラネタリウム (東京都 板橋区)
@@ -232,7 +245,7 @@
 
 ### [「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（11月）](https://www.walkerplus.com/event/ar0313e620549/)
 - **会場**: 各地のプラネタリウム (東京都 足立区)
-- **期間**: 2026年11月10日(火)
+- **期間**: 終了間近 2026年11月10日(火)
 - **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
 - **概要**: 子どもとプラネデビューしてみよう！
 - **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e620549/) (情報元: ウォーカープラス)
@@ -449,19 +462,6 @@
 
 ---
 
-### [星空観察会「てんくう」（11月）](https://www.walkerplus.com/event/ar0623e601557/)
-- **会場**: 各地のプラネタリウム (愛知県)
-- **期間**: 2026年11月14日(土)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: 愛知県で1番高いところでの星空観察
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0623e601557/) (情報元: ウォーカープラス)
-
-
-![星空観察会「てんくう」（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/57/l/601557.jpg)
-
-
----
-
 ### [久住高原星空の巡り（12月）](https://www.walkerplus.com/event/ar1044e610845/)
 - **会場**: 各地のプラネタリウム (大分県)
 - **期間**: 2026年12月19日(土)
@@ -488,6 +488,19 @@
 
 ---
 
+### [倉敷科学センター 天体観望会（12月）](https://www.walkerplus.com/event/ar0833e611041/)
+- **会場**: 各地のプラネタリウム (岡山県 倉敷市)
+- **期間**: 2026年12月5日(土)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: 季節の天体を天体望遠鏡で観測
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e611041/) (情報元: ウォーカープラス)
+
+
+![倉敷科学センター 天体観望会（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/41/l/611041.jpg)
+
+
+---
+
 ### [空と季節のコンサートvol.3 「プラネタリウムで悠久の音色を楽しむ新年」編](https://www.walkerplus.com/event/ar0727e617519/)
 - **会場**: 各地のプラネタリウム (大阪府)
 - **期間**: 2027年1月17日(日)
@@ -501,15 +514,15 @@
 
 ---
 
-### [倉敷科学センター 天体観望会（12月）](https://www.walkerplus.com/event/ar0833e611041/)
-- **会場**: 各地のプラネタリウム (岡山県 倉敷市)
-- **期間**: 2026年12月5日(土)
-- **状態 / ジャンル**: `開催中` | `入場無料`
-- **概要**: 季節の天体を天体望遠鏡で観測
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0833e611041/) (情報元: ウォーカープラス)
+### [星空観察会「てんくう」（11月）](https://www.walkerplus.com/event/ar0623e601557/)
+- **会場**: 各地のプラネタリウム (愛知県)
+- **期間**: 2026年11月14日(土)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 愛知県で1番高いところでの星空観察
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0623e601557/) (情報元: ウォーカープラス)
 
 
-![倉敷科学センター 天体観望会（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/41/l/611041.jpg)
+![星空観察会「てんくう」（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/57/l/601557.jpg)
 
 
 ---
@@ -629,19 +642,6 @@
 
 ---
 
-### [Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/program/monetclassic/)
-- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `NEW` | `特別プログラム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/monetclassic/) (情報元: コニカミノルタ公式)
-
-
-![Planetarium Concert -モネを巡るクラシック-](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_KV_yoko_m.jpg)
-
-
----
-
 ### [宙にとける夜 -うちゅうヒーリング-](https://planetarium.konicaminolta.jp/program/soranitokeru/)
 - **会場**: プラネタリアTOKYO(有楽町) / 満天(池袋) / 天空(押上) (東京・神奈川・愛知)
 - **期間**: 上映中（詳細は公式スケジュール参照）
@@ -716,19 +716,6 @@
 
 
 ![イマーシブ プラネタリウム ―モネ―](https://planetarium.konicaminolta.jp/wp-content/uploads/monet_kv.jpg)
-
-
----
-
-### [【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/program/queen/)
-- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `NEW` | `特別プログラム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/queen/) (情報元: コニカミノルタ公式)
-
-
-![【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/wp-content/uploads/「QUEEN-HEAVEN-」作品写真小.jpg)
 
 
 ---
@@ -820,6 +807,19 @@
 
 
 ![プラネタリウム ムーンベース 月面基地のミライ](https://ms-cache.walkerplus.com/walkertouch/wtd/event/88/l/601688.jpg)
+
+
+---
+
+### [【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/program/queen/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `終了間近` | `特別プログラム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/queen/) (情報元: コニカミノルタ公式)
+
+
+![【特別上映】クイーン – QUEEN -HEAVEN-](https://planetarium.konicaminolta.jp/wp-content/uploads/「QUEEN-HEAVEN-」作品写真小.jpg)
 
 
 ---

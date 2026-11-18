@@ -1,7 +1,7 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年11月17日 12:15  
-> 掲載件数: **117** 件 (うち開催中: **56** 件)
+> 最終自動更新: 2026年11月18日 11:38  
+> 掲載件数: **118** 件 (うち開催中: **58** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
 
@@ -10,14 +10,20 @@
 ## 🆕 最近追加された新着イベント（Pick Up）
 
 
+- **[「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（12月）](https://www.walkerplus.com/event/ar0313e624268/)**
+  - 会場: 各地のプラネタリウム (東京都 足立区) / 状態: `開催中` / 追加日: `2026-11-18`
+
+- **[天文くらぶ「コペルニクス」冬の講座](https://www.walkerplus.com/event/ar0726e624206/)**
+  - 会場: 各地のプラネタリウム (京都府) / 状態: `開催中` / 追加日: `2026-11-18`
+
+- **[フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/program/fiji_healing/)**
+  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `上映中` / 追加日: `2026-11-18`
+
 - **[グリーンランド Wonder illumination(ワンダーイルミネーション)～地上の星空～](https://www.walkerplus.com/event/ar1043e126985/)**
   - 会場: グリーンランド (遊園地) (熊本県) / 状態: `開催中` / 追加日: `2026-11-16`
 
 - **[星空ラジオinサイピア（12月）](https://www.walkerplus.com/event/ar0833e624071/)**
   - 会場: 各地のプラネタリウム (岡山県) / 状態: `開催中` / 追加日: `2026-11-16`
-
-- **[フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/program/fiji_healing/)**
-  - 会場: プラネタリアTOKYO(有楽町) / 天空(押上) (東京・神奈川・愛知) / 状態: `終了間近` / 追加日: `2026-11-16`
 
 - **[「銀河鉄道の夜」LEDドーム用リマスター版」](https://planetarium.konicaminolta.jp/program/gingatetudou/)**
   - 会場: プラネタリアYOKOHAMA (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-11-12`
@@ -40,17 +46,50 @@
 - **[プラネタリウム「星空クリスマス！ファミリーCDコンサート」](https://www.walkerplus.com/event/ar0313e623210/)**
   - 会場: 各地のプラネタリウム (東京都) / 状態: `開催中` / 追加日: `2026-11-11`
 
-- **[Planetarium Concert -流星と映画「ハウルの動く城」の音楽-](https://planetarium.konicaminolta.jp/program/shootingstar_concert/)**
-  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-11-10`
 
-- **[プラネタリウム ほしぞら宇宙生解説「宇宙のものさし ～広い宇宙を測るには～」](https://www.walkerplus.com/event/ar0313e622983/)**
-  - 会場: 各地のプラネタリウム (東京都 板橋区) / 状態: `開催中` / 追加日: `2026-11-08`
+---
+
+## 🌟 全掲載イベント一覧 (118件)
+
+
+### [「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（12月）](https://www.walkerplus.com/event/ar0313e624268/)
+- **会場**: 各地のプラネタリウム (東京都 足立区)
+- **期間**: 2026年12月6日(日)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: 子どもとプラネデビューしてみよう！
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e624268/) (情報元: ウォーカープラス)
+
+
+![「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/68/l/624268.jpg)
 
 
 ---
 
-## 🌟 全掲載イベント一覧 (117件)
+### [天文くらぶ「コペルニクス」冬の講座](https://www.walkerplus.com/event/ar0726e624206/)
+- **会場**: 各地のプラネタリウム (京都府)
+- **期間**: 2027年1月24日(日)
+- **状態 / ジャンル**: `開催中` | `講演会・トークショー`
+- **概要**: 小学生を対象とした天文体験講座
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0726e624206/) (情報元: ウォーカープラス)
 
+
+![天文くらぶ「コペルニクス」冬の講座](https://ms-cache.walkerplus.com/walkertouch/wtd/event/06/l/624206.jpg)
+
+
+---
+
+### [フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/program/fiji_healing/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `上映中` | `ヒーリングプラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/fiji_healing/) (情報元: コニカミノルタ公式)
+
+
+![フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/wp-content/uploads/Fiji_KV_yoko_1126.jpg)
+
+
+---
 
 ### [グリーンランド Wonder illumination(ワンダーイルミネーション)～地上の星空～](https://www.walkerplus.com/event/ar1043e126985/)
 - **会場**: グリーンランド (遊園地) (熊本県)
@@ -74,19 +113,6 @@
 
 
 ![星空ラジオinサイピア（12月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/71/l/624071.jpg)
-
-
----
-
-### [フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/program/fiji_healing/)
-- **会場**: プラネタリアTOKYO(有楽町) / 天空(押上) (東京・神奈川・愛知)
-- **期間**: 上映中（詳細は公式スケジュール参照）
-- **状態 / ジャンル**: `終了間近` | `ヒーリングプラネタリウム`
-- **概要**: 上映館/期間
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/fiji_healing/) (情報元: コニカミノルタ公式)
-
-
-![フィジーヒーリング ～南十字星と幸せの島～](https://planetarium.konicaminolta.jp/wp-content/uploads/Fiji_KV_yoko_1126.jpg)
 
 
 ---
@@ -271,19 +297,6 @@
 
 ---
 
-### [プラネタリウムキッズアワー 11月・12月のテーマ 「冬の星座とプレアデス神話」](https://www.walkerplus.com/event/ar0311e622034/)
-- **会場**: 各地のプラネタリウム (埼玉県)
-- **期間**: 2026年11月1日(日)～12月27日(日)
-- **状態 / ジャンル**: `開催中` | `映画イベント`
-- **概要**: 星やテーマにそった内容を子ども向けに解説
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0311e622034/) (情報元: ウォーカープラス)
-
-
-![プラネタリウムキッズアワー 11月・12月のテーマ 「冬の星座とプレアデス神話」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/34/l/622034.jpg)
-
-
----
-
 ### [企画展関連イベント「KAGAYA講演会＋プラネタリウム上映会」](https://www.walkerplus.com/event/ar0308e622109/)
 - **会場**: 各地のプラネタリウム (茨城県 つくば市)
 - **期間**: 2026年11月22日(日)
@@ -293,6 +306,19 @@
 
 
 ![企画展関連イベント「KAGAYA講演会＋プラネタリウム上映会」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/09/l/622109.jpg)
+
+
+---
+
+### [プラネタリウムキッズアワー 11月・12月のテーマ 「冬の星座とプレアデス神話」](https://www.walkerplus.com/event/ar0311e622034/)
+- **会場**: 各地のプラネタリウム (埼玉県)
+- **期間**: 2026年11月1日(日)～12月27日(日)
+- **状態 / ジャンル**: `開催中` | `映画イベント`
+- **概要**: 星やテーマにそった内容を子ども向けに解説
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0311e622034/) (情報元: ウォーカープラス)
+
+
+![プラネタリウムキッズアワー 11月・12月のテーマ 「冬の星座とプレアデス神話」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/34/l/622034.jpg)
 
 
 ---
@@ -432,19 +458,6 @@
 - **概要**: イベント 2026年10月22日
 - **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/illumination/) (情報元: コニカミノルタ公式)
 
-
-
----
-
-### [飯能なぐりの星空観察会](https://www.walkerplus.com/event/ar0311e620451/)
-- **会場**: 各地のプラネタリウム (埼玉県)
-- **期間**: 終了間近 2026年11月17日(火)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: しし座流星群と初冬の星々をめぐる夜
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0311e620451/) (情報元: ウォーカープラス)
-
-
-![飯能なぐりの星空観察会](https://ms-cache.walkerplus.com/walkertouch/wtd/event/51/l/620451.jpg)
 
 
 ---
@@ -644,6 +657,19 @@
 
 ---
 
+### [あすたむ天文教室「うごいているのは、どっち？」](https://www.walkerplus.com/event/ar0936e616806/)
+- **会場**: 各地のプラネタリウム (徳島県)
+- **期間**: 2026年11月29日(日)
+- **状態 / ジャンル**: `開催中` | `入場無料`
+- **概要**: うごいているのは太陽や星？それとも地球？
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0936e616806/) (情報元: ウォーカープラス)
+
+
+![あすたむ天文教室「うごいているのは、どっち？」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/06/l/616806.jpg)
+
+
+---
+
 ### [倉敷科学センター 天体観望会（1月）](https://www.walkerplus.com/event/ar0833e611270/)
 - **会場**: 各地のプラネタリウム (岡山県 倉敷市)
 - **期間**: 2027年1月16日(土)
@@ -666,19 +692,6 @@
 
 
 ![倉敷科学センター 天体観望会（3月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/72/l/611272.jpg)
-
-
----
-
-### [あすたむ天文教室「うごいているのは、どっち？」](https://www.walkerplus.com/event/ar0936e616806/)
-- **会場**: 各地のプラネタリウム (徳島県)
-- **期間**: 2026年11月29日(日)
-- **状態 / ジャンル**: `開催中` | `入場無料`
-- **概要**: うごいているのは太陽や星？それとも地球？
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0936e616806/) (情報元: ウォーカープラス)
-
-
-![あすたむ天文教室「うごいているのは、どっち？」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/06/l/616806.jpg)
 
 
 ---

@@ -1,7 +1,7 @@
 # 🪐 プラネタリウム最新イベント・上映プログラム一覧
 
-> 最終自動更新: 2026年11月18日 11:38  
-> 掲載件数: **118** 件 (うち開催中: **58** 件)
+> 最終自動更新: 2026年11月19日 11:05  
+> 掲載件数: **119** 件 (うち開催中: **58** 件)
 
 全国の主要プラネタリウムおよびドームシアターの最新上映・特別イベント情報です。
 
@@ -9,6 +9,12 @@
 
 ## 🆕 最近追加された新着イベント（Pick Up）
 
+
+- **[To the GRAND UNIVERSE 大宇宙へ music by 久石譲](https://planetarium.konicaminolta.jp/program/hisaishijoe/)**
+  - 会場: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知) / 状態: `NEW` / 追加日: `2026-11-19`
+
+- **[Starry Members流れ星クーポン「フランス 星めぐりの空で 公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/france-coupon/)**
+  - 会場: コニカミノルタプラネタリウム (首都圏・愛知) / 状態: `注目` / 追加日: `2026-11-19`
 
 - **[「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（12月）](https://www.walkerplus.com/event/ar0313e624268/)**
   - 会場: 各地のプラネタリウム (東京都 足立区) / 状態: `開催中` / 追加日: `2026-11-18`
@@ -40,17 +46,35 @@
 - **[スターデイズ「ミニプラネタリウム投影会」](https://www.walkerplus.com/event/ar0313e623273/)**
   - 会場: 各地のプラネタリウム (東京都 足立区) / 状態: `開催中` / 追加日: `2026-11-11`
 
-- **[クリスマス 星空コンサート](https://www.walkerplus.com/event/ar0727e623344/)**
-  - 会場: 各地のプラネタリウム (大阪府) / 状態: `開催中` / 追加日: `2026-11-11`
 
-- **[プラネタリウム「星空クリスマス！ファミリーCDコンサート」](https://www.walkerplus.com/event/ar0313e623210/)**
-  - 会場: 各地のプラネタリウム (東京都) / 状態: `開催中` / 追加日: `2026-11-11`
+---
+
+## 🌟 全掲載イベント一覧 (119件)
+
+
+### [To the GRAND UNIVERSE 大宇宙へ music by 久石譲](https://planetarium.konicaminolta.jp/program/hisaishijoe/)
+- **会場**: プラネタリアTOKYO(有楽町) (東京・神奈川・愛知)
+- **期間**: 上映中（詳細は公式スケジュール参照）
+- **状態 / ジャンル**: `NEW` | `プラネタリウム`
+- **概要**: 上映館/期間
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/program/hisaishijoe/) (情報元: コニカミノルタ公式)
+
+
+![To the GRAND UNIVERSE 大宇宙へ music by 久石譲](https://planetarium.konicaminolta.jp/wp-content/uploads/kv-7.jpg)
 
 
 ---
 
-## 🌟 全掲載イベント一覧 (118件)
+### [Starry Members流れ星クーポン「フランス 星めぐりの空で 公開記念10%OFF」](https://planetarium.konicaminolta.jp/event/france-coupon/)
+- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
+- **期間**: 最新イベント・期間限定
+- **状態 / ジャンル**: `注目` | `特別イベント`
+- **概要**: 割引 2026年11月19日
+- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/france-coupon/) (情報元: コニカミノルタ公式)
 
+
+
+---
 
 ### [「どきどき！プラネタリウム」～泣いてもOK プラネデビューしちゃおう～（12月）](https://www.walkerplus.com/event/ar0313e624268/)
 - **会場**: 各地のプラネタリウム (東京都 足立区)
@@ -334,19 +358,6 @@
 
 ---
 
-### [ギャラクマンの天文マジックプラネタリウム（11月）](https://www.walkerplus.com/event/ar0313e621866/)
-- **会場**: 各地のプラネタリウム (東京都 足立区)
-- **期間**: 2026年11月28日(土)・29日(日)
-- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
-- **概要**: ギャラクマンが天文マジックに挑戦。
-- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e621866/) (情報元: ウォーカープラス)
-
-
-![ギャラクマンの天文マジックプラネタリウム（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/66/l/621866.jpg)
-
-
----
-
 ### [星空保護区認定5周年記念イベント「星降る美星に、美声を。」](https://www.walkerplus.com/event/ar0833e621993/)
 - **会場**: 各地のプラネタリウム (岡山県)
 - **期間**: 2026年11月28日(土)
@@ -356,6 +367,19 @@
 
 
 ![星空保護区認定5周年記念イベント「星降る美星に、美声を。」](https://ms-cache.walkerplus.com/walkertouch/wtd/event/93/l/621993.jpg)
+
+
+---
+
+### [ギャラクマンの天文マジックプラネタリウム（11月）](https://www.walkerplus.com/event/ar0313e621866/)
+- **会場**: 各地のプラネタリウム (東京都 足立区)
+- **期間**: 2026年11月28日(土)・29日(日)
+- **状態 / ジャンル**: `開催中` | `体験イベント・アクティビティ`
+- **概要**: ギャラクマンが天文マジックに挑戦。
+- **公式サイト・詳細**: [こちら](https://www.walkerplus.com/event/ar0313e621866/) (情報元: ウォーカープラス)
+
+
+![ギャラクマンの天文マジックプラネタリウム（11月）](https://ms-cache.walkerplus.com/walkertouch/wtd/event/66/l/621866.jpg)
 
 
 ---
@@ -1018,17 +1042,6 @@
 - **状態 / ジャンル**: `注目` | `特別イベント`
 - **概要**: 割引 2026年3月16日
 - **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/st_zodiac/) (情報元: コニカミノルタ公式)
-
-
-
----
-
-### [Starry Members 流れ星クーポン 『宙の音 -Music of the Universe- feat.角野隼斗』世界宇宙週間限定10%OFF](https://planetarium.konicaminolta.jp/event/soranooto-utyu-coupon/)
-- **会場**: コニカミノルタプラネタリウム (首都圏・愛知)
-- **期間**: 最新イベント・期間限定
-- **状態 / ジャンル**: `注目` | `特別イベント`
-- **概要**: 割引 2026年9月24日
-- **公式サイト・詳細**: [こちら](https://planetarium.konicaminolta.jp/event/soranooto-utyu-coupon/) (情報元: コニカミノルタ公式)
 
 
 
